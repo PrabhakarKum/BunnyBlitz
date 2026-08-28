@@ -1,0 +1,15 @@
+This asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+A. CBaloo Bhaijaan 2
+
+Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)
+This Font Software is licensed under the SIL Open Font License, Version 1.1 . This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
+
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
+B. Bitcount Prop Double Ink Font
+
+Copyright 1980 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)
+This Font Software is licensed under the SIL Open Font License, Version 1.1 . This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
+
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007

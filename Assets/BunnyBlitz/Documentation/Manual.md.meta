@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63c6d650e3f964ec8844e58e96bf51f4
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Documentation/Manual.md
+  uploadId: 977722

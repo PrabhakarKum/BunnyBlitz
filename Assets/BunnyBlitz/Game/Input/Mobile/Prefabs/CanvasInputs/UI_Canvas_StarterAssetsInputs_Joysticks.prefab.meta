@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f7f3dde7ae722a4aafffe20691ad702
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Input/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_Joysticks.prefab
+  uploadId: 977722

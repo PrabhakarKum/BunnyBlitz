@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec53a506532558e409d9e708a2965679
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6418180475301049370
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Audio/SFX/BB_SFX_Brick_Block_Smash/BB_SFX_Brick_Block_Smash.asset
+  uploadId: 977722

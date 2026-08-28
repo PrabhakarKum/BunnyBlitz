@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a191e2a56abc4b3cada026e650073a8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Blocks/BlockLife.prefab
+  uploadId: 977722

@@ -1,0 +1,73 @@
+:root {
+}
+
+.instant-fade {
+    transition-property: opacity;
+}
+
+.text-L {
+    -unity-font-definition: url("project://database/Assets/BunnyBlitz/Game/UI/Fonts/BalooBhaijaan2-ExtraBold%20SDF.asset?fileID=11400000&guid=b868e8d1f19e94243bfc27326eac0bf9&type=2#BalooBhaijaan2-ExtraBold SDF");
+    font-size: 70px;
+    -unity-text-align: middle-center;
+    color: rgb(255, 255, 255);
+    -unity-font-style: italic;
+    rotate: -12deg;
+    text-shadow: -19.5px -4.2px 0 rgb(57, 0, 147);
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.text-M {
+    -unity-font-definition: url("project://database/Assets/BunnyBlitz/Game/UI/Fonts/BalooBhaijaan2-ExtraBold%20SDF.asset?fileID=11400000&guid=b868e8d1f19e94243bfc27326eac0bf9&type=2#BalooBhaijaan2-ExtraBold SDF");
+    font-size: 42px;
+    -unity-text-align: middle-center;
+    color: rgb(255, 255, 255);
+    -unity-font-style: italic;
+    rotate: -12deg;
+    text-shadow: -19.5px -4.2px 0 rgb(57, 0, 147);
+    text-overflow: ellipsis;
+}
+
+.text-pixel-dark {
+    -unity-font-definition: url("project://database/Assets/BunnyBlitz/Game/UI/Fonts/BitcountPropDoubleInk-VariableFont_CRSV,ELSH,ELXP,SZP1,SZP2,XPN1,XPN2,YPN1,YPN2,slnt,wght%20Bitmap.asset?fileID=11400000&guid=a533c74a65d78419dbf33f70d7f75171&type=2#BitcountPropDoubleInk-VariableFont_CRSV,ELSH,ELXP,SZP1,SZP2,XPN1,XPN2,YPN1,YPN2,slnt,wght Bitmap");
+    -unity-text-align: middle-center;
+}
+
+.text-pixel-light {
+    -unity-font-definition: url("project://database/Assets/BunnyBlitz/Game/UI/Fonts/BitcountPropDoubleInk-VariableFont_CRSV,ELSH,ELXP,SZP1,SZP2,XPN1,XPN2,YPN1,YPN2,slnt,wght%20Bitmap.asset?fileID=11400000&guid=a533c74a65d78419dbf33f70d7f75171&type=2#BitcountPropDoubleInk-VariableFont_CRSV,ELSH,ELXP,SZP1,SZP2,XPN1,XPN2,YPN1,YPN2,slnt,wght Bitmap");
+    -unity-text-align: middle-center;
+    color: rgb(80, 233, 106);
+}
+
+Label {
+    -unity-material: none;
+}
+
+VisualElement {
+    -unity-material: none;
+}
+
+Button {
+    -unity-material: none;
+}
+
+.heart-visual {
+    background-image: url("project://database/Assets/BunnyBlitz/Game/UI/Textures/uiHeart.png?fileID=8450300452970009360&guid=d374ea43ff091478e9ccc2927ba75219&type=3#uiHeart_0");
+    position: absolute;
+    width: 94px;
+    height: 75px;
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+.heart-empty {
+    background-image: url("project://database/Assets/BunnyBlitz/Game/UI/Textures/uiHeart-empty.png?fileID=-5350518926033810433&guid=61ae22769ff94442591aae4d0d1e5da8&type=3#uiHeart-empty_0");
+}
+
+.heart-full {
+    background-image: url("project://database/Assets/BunnyBlitz/Game/UI/Textures/uiHeart.png?fileID=8450300452970009360&guid=d374ea43ff091478e9ccc2927ba75219&type=3#uiHeart_0");
+}
+
+.uletters-image {
+    aspect-ratio: 1;
+    height: 100%;
+}

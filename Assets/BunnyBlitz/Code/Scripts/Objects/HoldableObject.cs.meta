@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: db4e99ff6e8caaf4789ac9c5be6a08bf
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Objects/HoldableObject.cs
+  uploadId: 977722

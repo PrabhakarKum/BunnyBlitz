@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7d3ae54bc4edd4a4e88c2da2f48e4345
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Graphics/BlurRenderPass.cs
+  uploadId: 977722

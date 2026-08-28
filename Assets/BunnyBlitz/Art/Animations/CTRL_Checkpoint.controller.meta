@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17396262512404c83869502e01be76a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Animations/CTRL_Checkpoint.controller
+  uploadId: 977722

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 36921d7e69d6e40d8b48e69081085c8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Tiles/spikes tile_0.asset
+  uploadId: 977722

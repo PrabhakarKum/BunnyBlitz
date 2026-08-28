@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b5fded9ec2cd4ba3a8dbe78a2088aec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Physics/Physics2D Materials/Char side collision.physicsMaterial2D
+  uploadId: 977722

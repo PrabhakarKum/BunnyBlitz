@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8402a35b8acc046fdbe7811f5cb6f42f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Shaders/Shadergraphs/SpriteGlowUnlit.shadergraph
+  uploadId: 977722

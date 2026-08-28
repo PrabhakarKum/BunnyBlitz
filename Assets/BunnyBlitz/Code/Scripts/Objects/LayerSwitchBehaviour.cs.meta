@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: be465751de2f140ac8667c9fb24be98d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Objects/LayerSwitchBehaviour.cs
+  uploadId: 977722

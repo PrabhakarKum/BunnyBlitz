@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10882a68b1cb61b47be5351c058edd91
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/VFX/Shaders/FunctionsRSUV.hlsl
+  uploadId: 977722

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9bd52e503b2ff4759a9d32b17b11bd2c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Collectables/Collectable Dynamic/CustomDonutCollectablePhysics.prefab
+  uploadId: 977722

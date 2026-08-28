@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fb88f40513245a46960c7ddba8e37b0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6418180475301049370
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Audio/Enemy/BB_SNAIL_ENEMY_Cannon_Fire/BB_SNAIL_ENEMY_Cannon_Fire_Tail/Snail_Cannon_Fire.asset
+  uploadId: 977722

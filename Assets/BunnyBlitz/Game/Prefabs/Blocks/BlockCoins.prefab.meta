@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eae12a60242d84f09a09a0690a870854
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Blocks/BlockCoins.prefab
+  uploadId: 977722

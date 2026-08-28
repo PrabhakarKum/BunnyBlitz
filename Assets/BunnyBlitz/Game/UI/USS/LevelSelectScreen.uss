@@ -1,0 +1,42 @@
+:root {
+}
+
+.level-select-template-root {
+    position: relative;
+}
+
+.level-select-entry {
+    height: 382px;
+    width: 492px;
+    margin-right: 36px;
+    rotate: 1.96 1.44 0 28deg;
+    translate: 59px 20px;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 49px;
+    border-top-right-radius: 49px;
+    border-bottom-right-radius: 49px;
+    border-bottom-left-radius: 49px;
+    scale: 0.8 0.8;
+}
+
+.level-entry-style {
+    background-image: url("project://database/Assets/BunnyBlitz/Game/UI/Textures/infoLevelBlue.png?fileID=3709965357892337242&guid=234ead6740dd34692a8b56da852f5904&type=3#infoLevelBlue_0");
+}
+
+.level-entry-style:hover {
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-out;
+    background-image: url("project://database/Assets/BunnyBlitz/Game/UI/Textures/infoLevelOrange.png?fileID=6432137400843221337&guid=6f2b4344a960e4ca0885b7e9c2f0c318&type=3#infoLevelOrange_0");
+    rotate: 360deg;
+    cursor: url("project://database/Assets/BunnyBlitz/Game/UI/Textures/Cursor_B.png?fileID=2800000&guid=b23b1c43d52d7418d830a8f3d21ad512&type=3#Cursor_B");
+}
+
+VisualElement {
+    cursor: url("project://database/Assets/BunnyBlitz/Game/UI/Textures/Cursor_A.png?fileID=2800000&guid=5ca0d6a971ffe459697b496ae86d0fe3&type=3#Cursor_A");
+}
+
+
+
+

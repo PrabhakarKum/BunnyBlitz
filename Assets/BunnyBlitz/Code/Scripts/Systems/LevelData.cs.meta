@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d4d93d72aa61d4c1ca7386a8ed84e79e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Systems/LevelData.cs
+  uploadId: 977722

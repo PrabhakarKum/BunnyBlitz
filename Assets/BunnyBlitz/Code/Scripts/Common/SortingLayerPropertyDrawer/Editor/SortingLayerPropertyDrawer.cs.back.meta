@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81cc7ab4c208da744a1bbb976dccf41c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Common/SortingLayerPropertyDrawer/Editor/SortingLayerPropertyDrawer.cs.back
+  uploadId: 977722

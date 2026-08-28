@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b92f0b869f1ce4034b64c1dd2ee6374a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Objects/SpringPrefab.prefab
+  uploadId: 977722

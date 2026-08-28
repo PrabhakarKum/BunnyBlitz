@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 8a4fdb78fb5ce47cd834700419ff0cac
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Enemies/StaticBossProjectile.cs
+  uploadId: 977722

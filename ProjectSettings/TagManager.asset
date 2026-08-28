@@ -2,20 +2,34 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Block
+  - Ground
+  - ItemCoin
+  - Projectile
+  - Spring
+  - Enemy
+  - Spikes
+  - ProjectileEnemy
+  - GroundMovingPlatform
+  - OneOfFiveCollectable
+  - LifeCollectable
+  - HealthCollectable
+  - UnityCollectable
+  - DestructableStaticSurface
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Distortion
+  - GroundDynamic
+  - BackgroundLayer
+  - NormalLayer
+  - ForegroundLayer
   - 
   - 
   - 
@@ -38,8 +52,44 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Sky
+    uniqueID: 3833483659
+    locked: 0
+  - name: Clouds
+    uniqueID: 1129107787
+    locked: 0
+  - name: Background
+    uniqueID: 3370529933
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Layer Back
+    uniqueID: 2560982985
+    locked: 0
+  - name: Layer Back Front Deco
+    uniqueID: 2437374451
+    locked: 0
+  - name: Layer Normal Back Deco
+    uniqueID: 3466641627
+    locked: 0
+  - name: Layer Normal Back Cave
+    uniqueID: 114520473
+    locked: 0
+  - name: Layer Normal
+    uniqueID: 2286753497
+    locked: 0
+  - name: Layer Normal Front Deco
+    uniqueID: 1446979687
+    locked: 0
+  - name: Layer Foreground Back Deco
+    uniqueID: 565169145
+    locked: 0
+  - name: Layer Foreground
+    uniqueID: 2764965867
+    locked: 0
+  - name: Visual Effects
+    uniqueID: 1666405137
     locked: 0
   m_RenderingLayers:
   - Default
@@ -50,27 +100,4 @@ TagManager:
   - Light Layer 5
   - Light Layer 6
   - Light Layer 7
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  m_MigratedRenderPipelines: []

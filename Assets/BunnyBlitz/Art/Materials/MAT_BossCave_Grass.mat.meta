@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4d9f47bf375e4e4a9590a234a6458b4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Materials/MAT_BossCave_Grass.mat
+  uploadId: 977722

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c367194febcca974d9a0d7fdaf87a6fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6418180475301049370
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Audio/Player Actions/BB_PA_Landing_Water/BB_PA_Landing_Water.asset
+  uploadId: 977722

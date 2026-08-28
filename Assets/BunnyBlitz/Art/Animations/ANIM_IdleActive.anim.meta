@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7956a6b454aaf470baf519624c1a7384
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Animations/ANIM_IdleActive.anim
+  uploadId: 977722

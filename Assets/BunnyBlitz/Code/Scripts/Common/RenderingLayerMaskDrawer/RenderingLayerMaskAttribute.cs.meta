@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 248428a64d544794acc7ce085f893f39
+timeCreated: 1653839099
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Common/RenderingLayerMaskDrawer/RenderingLayerMaskAttribute.cs
+  uploadId: 977722

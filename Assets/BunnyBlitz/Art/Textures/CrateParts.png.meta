@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: f0702878defc94012b8189b57ad18d0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1237394807957484929
+    second: CrateParts_0
+  - first:
+      213: 7025613658713963772
+    second: CrateParts_1
+  - first:
+      213: -496441316475857451
+    second: CrateParts_2
+  - first:
+      213: -2984056595691602634
+    second: CrateParts_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 564
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrateParts_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 17
+        width: 161
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23.5, y: -109}
+        - {x: 27.5, y: 64}
+        - {x: 80.5, y: 64}
+        - {x: 80.5, y: 128}
+        - {x: 76.5, y: 135}
+        - {x: -60.5, y: 135}
+        - {x: -80.5, y: 117}
+        - {x: -80.5, y: 75}
+        - {x: -62.5, y: 74}
+        - {x: -59.5, y: -127}
+        - {x: -45.5, y: -135}
+        - {x: -21.5, y: -135}
+      physicsShape:
+      - - {x: 20.5, y: -108}
+        - {x: 27.5, y: 66}
+        - {x: 79.5, y: 66}
+        - {x: 72.5, y: 135}
+        - {x: -68.5, y: 134}
+        - {x: -80.5, y: 70}
+        - {x: -51.5, y: -125}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a08c86af3e3dee0800000000000000
+      internalID: -1237394807957484929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrateParts_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 176
+        width: 370
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 185, y: -16.5}
+        - {x: 185, y: 61.5}
+        - {x: 23, y: 55.5}
+        - {x: -185, y: 51.5}
+        - {x: -185, y: -34.5}
+        - {x: -181, y: -61.5}
+        - {x: 174, y: -61.5}
+      physicsShape:
+      - - {x: 182, y: 60.5}
+        - {x: -183, y: 37.5}
+        - {x: -180, y: -60.5}
+        - {x: 175, y: -60.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc37c8366eff7160800000000000000
+      internalID: 7025613658713963772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrateParts_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 5
+        width: 188
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 93, y: -82}
+        - {x: 94, y: -80}
+        - {x: 94, y: 2}
+        - {x: 93, y: 23}
+        - {x: 89, y: 83}
+        - {x: 66, y: 83}
+        - {x: 32, y: 56}
+        - {x: 24, y: 36}
+        - {x: -1, y: 10}
+        - {x: -94, y: 3}
+        - {x: -94, y: -83}
+        - {x: 93, y: -83}
+      physicsShape:
+      - - {x: 94, y: 81}
+        - {x: 42, y: 52}
+        - {x: 26, y: -14}
+        - {x: -81, y: -15}
+        - {x: -92, y: -83}
+        - {x: 94, y: -83}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d511afb0494c19f0800000000000000
+      internalID: -496441316475857451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrateParts_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 48
+        width: 197
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 98.5, y: -42.5}
+        - {x: 98.5, y: 31.5}
+        - {x: 63.5, y: 30.5}
+        - {x: 69.5, y: 52.5}
+        - {x: -34.5, y: 52.5}
+        - {x: -98.5, y: 49.5}
+        - {x: -91.5, y: -0.5}
+        - {x: -66.5, y: -5.5}
+        - {x: -87.5, y: -25.5}
+        - {x: -80.5, y: -52.5}
+        - {x: -0.5, y: -52.5}
+      physicsShape:
+      - - {x: 93.5, y: 51.5}
+        - {x: -81.5, y: 51.5}
+        - {x: -81.5, y: -8.5}
+        - {x: -59.5, y: -52.5}
+        - {x: 97.5, y: -51.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63df32026508696d0800000000000000
+      internalID: -2984056595691602634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cfaaaf271049842e6888ac85116bca4d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 533c866577c234cc4bf2748f050671fe, type: 3}
+      name: _NormalMap
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrateParts_0: -1237394807957484929
+      CrateParts_1: 7025613658713963772
+      CrateParts_2: -496441316475857451
+      CrateParts_3: -2984056595691602634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Textures/CrateParts.png
+  uploadId: 977722

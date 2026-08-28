@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1132769b9ad34e668d8dbf542fc6a41
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Gameplay/Boss/BossIntroStage.prefab
+  uploadId: 977722

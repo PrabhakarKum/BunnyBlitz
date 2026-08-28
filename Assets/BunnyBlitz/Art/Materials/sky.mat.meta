@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b0882cf6c241480f982ffb9a7e72334
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Materials/sky.mat
+  uploadId: 977722

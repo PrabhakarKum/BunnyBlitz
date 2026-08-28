@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac24e3df441b8ac459395b5e63a9512e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Materials/Fog.mat
+  uploadId: 977722

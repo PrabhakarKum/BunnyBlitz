@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-6703065067055774767
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Grass_Walking_Footsteps_03_{-6703065067055774767}
+  m_AudioClip: {fileID: 8300000, guid: 166fa4672e1dc94479e1d8167cef5f1b, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-5792274378933658997
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Grass_Walking_Footsteps_10_{-5792274378933658997}
+  m_AudioClip: {fileID: 8300000, guid: 169b673c726abdd429b39c4efcdcd5e0, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4372544139937271795
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Grass_Walking_Footsteps_09_{-4372544139937271795}
+  m_AudioClip: {fileID: 8300000, guid: 69000db85b84b95479093ec4b9060fc5, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2727233693900942344
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Grass_Walking_Footsteps_07_{-2727233693900942344}
+  m_AudioClip: {fileID: 8300000, guid: 422b23110f9ccc54c9c8ca9ded03d492, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1934040627245726730
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Grass_Walking_Footsteps_05_{-1934040627245726730}
+  m_AudioClip: {fileID: 8300000, guid: ca194504e811b6445bb70ffbabefc520, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1453065674560051372
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Grass_Walking_Footsteps_08_{-1453065674560051372}
+  m_AudioClip: {fileID: 8300000, guid: 18c3b32eb4d6b1743b30257b866cecee, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2006154767071103118
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Grass_Walking_Footsteps_02_{2006154767071103118}
+  m_AudioClip: {fileID: 8300000, guid: a33ba9969d0b0ab44b502c8e5c0f7983, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5654951583396246594
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Grass_Walking_Footsteps_06_{5654951583396246594}
+  m_AudioClip: {fileID: 8300000, guid: aba1389a56c8b6b48b83e4f6608c3e46, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Grass_Walking_Footsteps
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 6513811029565620832}
+  - {fileID: 2006154767071103118}
+  - {fileID: -6703065067055774767}
+  - {fileID: 6864805071554541630}
+  - {fileID: -1934040627245726730}
+  - {fileID: 5654951583396246594}
+  - {fileID: -2727233693900942344}
+  - {fileID: -1453065674560051372}
+  - {fileID: -4372544139937271795}
+  - {fileID: -5792274378933658997}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6513811029565620832
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Grass_Walking_Footsteps_01_{6513811029565620832}
+  m_AudioClip: {fileID: 8300000, guid: ab283ed5a1a0c274cae6f300f65765ba, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &6864805071554541630
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Grass_Walking_Footsteps_04_{6864805071554541630}
+  m_AudioClip: {fileID: 8300000, guid: 81f4d466d4f812d4e9dd9eb9609f5526, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

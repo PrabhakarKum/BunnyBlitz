@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a15a2542ad8c0f48855b653573f5d85
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/VFX/Prefabs/PortalEffect.prefab
+  uploadId: 977722

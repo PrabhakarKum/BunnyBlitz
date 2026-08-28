@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b96a6db35b86e405489d7ff7ff0086ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Animations/CTRL_Enemy.controller
+  uploadId: 977722

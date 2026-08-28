@@ -1,0 +1,9 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/BunnyBlitz/Game/UI/USS/LevelSelectScreen.uss?fileID=7433441132597879392&amp;guid=a81a6cd8e4b53924497fa4503bfa269e&amp;type=3#LevelSelectScreen"/>
+    <Style src="project://database/Assets/BunnyBlitz/Game/UI/USS/GameHUD.uss?fileID=7433441132597879392&amp;guid=02f8cccc07f774e2c969bd8e8a7db972&amp;type=3#GameHUD"/>
+    <ui:VisualElement name="container" picking-mode="Ignore" style="width: 528px; height: 454px;">
+        <ui:VisualElement name="frame" class="level-entry-style" style="width: 585px; height: 454px; position: absolute; -unity-background-scale-mode: scale-to-fit; scale: 0.8 0.8; left: -36px; top: 0;"/>
+        <ui:VisualElement name="level-entry" picking-mode="Ignore" class="level-select-entry" style="background-image: url(&quot;project://database/Assets/BunnyBlitz/Art/Textures/avatarateam.png?fileID=-6137366377848797718&amp;guid=d241b83dba7bd4b17b2f9ce638e150cc&amp;type=3#avatarateam_0&quot;); -unity-background-scale-mode: scale-and-crop; left: -36px; top: 0;"/>
+        <ui:Label text="88%" name="level-completion-amount" picking-mode="Ignore" class="text-L" style="position: absolute; -unity-background-image-tint-color: rgb(255, 0, 0); left: 306px; top: 75px;"/>
+    </ui:VisualElement>
+</ui:UXML>

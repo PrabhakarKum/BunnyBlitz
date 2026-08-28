@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f64c4663173f5b340ad26e8bdc1da2a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BackLayerPrefab: {fileID: 7961079553901306348, guid: 4ae5c9d9bba6e2e45ab46ea6b520c3e1,
+      type: 3}
+  - NormalLayerPrefab: {fileID: 4295346743305932956, guid: b303e84c4e011f64fbc45c691eacb792,
+      type: 3}
+  - FrontLayerPrefab: {fileID: 1434352802252892672, guid: 92e5b0d82f2bde94ea2fd7bc47410e42,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Systems/LevelAuthoring.cs
+  uploadId: 977722

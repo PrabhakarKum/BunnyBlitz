@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38b72fc41e99df2489cefa81a5edce22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6418180475301049370
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Audio/Enemy/BB_SNAIL_ENEMY_General_Vocalization/Snail_General_Vocalization.asset
+  uploadId: 977722

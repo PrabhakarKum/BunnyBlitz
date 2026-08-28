@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcdba3b26ef82ad4bb0c56dafe3516c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Settings/DefaultVolumeProfile.asset
+  uploadId: 977722

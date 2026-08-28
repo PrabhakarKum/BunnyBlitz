@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7abac522b1044932a9566c6c85fb63e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Timeline/SignalRabbitControlsOff.signal
+  uploadId: 977722

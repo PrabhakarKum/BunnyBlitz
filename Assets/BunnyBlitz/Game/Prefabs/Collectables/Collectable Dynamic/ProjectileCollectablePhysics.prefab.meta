@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb0e85d3946d240ea817cdec81f2c94a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Collectables/Collectable Dynamic/ProjectileCollectablePhysics.prefab
+  uploadId: 977722

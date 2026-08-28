@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-3786178071863852516
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Dripping_10_{-3786178071863852516}
+  m_AudioClip: {fileID: 8300000, guid: 517dc55476843bc469bb5b1cfed469d3, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1671711195420920492
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Dripping_03_{-1671711195420920492}
+  m_AudioClip: {fileID: 8300000, guid: 96d69b1519d38d9448bdc2028b3724e1, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1317572129948390320
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Dripping_05_{-1317572129948390320}
+  m_AudioClip: {fileID: 8300000, guid: 98e7df20542223746a31634787836642, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &117964221578520777
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Dripping_06_{117964221578520777}
+  m_AudioClip: {fileID: 8300000, guid: e8a8413025e963d459c47ce981e267ad, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &599512247447588111
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Dripping_04_{599512247447588111}
+  m_AudioClip: {fileID: 8300000, guid: 20935af4ae56e824a9dcaa3cab89bc90, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2236250781699154897
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Dripping_01_{2236250781699154897}
+  m_AudioClip: {fileID: 8300000, guid: 4fdf64292f6d43a4480c7edb377fa094, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5181611593863291044
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Dripping_11_{5181611593863291044}
+  m_AudioClip: {fileID: 8300000, guid: 02c6486f02653354fbe603cfc4ca9cc2, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Dripping
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 2
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: -1, y: 1}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 2236250781699154897}
+  - {fileID: 6845769566958068310}
+  - {fileID: -1671711195420920492}
+  - {fileID: 599512247447588111}
+  - {fileID: -1317572129948390320}
+  - {fileID: 117964221578520777}
+  - {fileID: 9042723545007386006}
+  - {fileID: 6591273502246317771}
+  - {fileID: 9069156379886924853}
+  - {fileID: -3786178071863852516}
+  - {fileID: 5181611593863291044}
+  m_AvoidRepeatingLast: 1
+  m_PlaybackMode: 2
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 0
+  m_LoopMode: 0
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 1
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6591273502246317771
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Dripping_08_{6591273502246317771}
+  m_AudioClip: {fileID: 8300000, guid: 20c699351f41f864b9f5bd21a70185d6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &6845769566958068310
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Dripping_02_{6845769566958068310}
+  m_AudioClip: {fileID: 8300000, guid: 8b5b246c60fb1a0459bd523c95c8c142, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &9042723545007386006
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Dripping_07_{9042723545007386006}
+  m_AudioClip: {fileID: 8300000, guid: 1a866e2b8c6830740a7ca37354eabbd9, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &9069156379886924853
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Dripping_09_{9069156379886924853}
+  m_AudioClip: {fileID: 8300000, guid: 7dc1ddb804a39964eb6c55485cd5f223, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

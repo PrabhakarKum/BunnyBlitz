@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 889be2c9c48b398498cfe8d5ffa9b5ff
+AssemblyDefinitionReferenceImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Common/RenderingLayerMaskDrawer/Editor/MindjarDesignEditorAssemblyReference.asmref
+  uploadId: 977722

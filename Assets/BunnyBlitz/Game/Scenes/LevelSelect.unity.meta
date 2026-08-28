@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2f22f098e32ea942a02f71be67e0a02
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Scenes/LevelSelect.unity
+  uploadId: 977722

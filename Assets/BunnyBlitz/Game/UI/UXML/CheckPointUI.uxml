@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/BunnyBlitz/Game/UI/USS/GameHUD.uss?fileID=7433441132597879392&amp;guid=02f8cccc07f774e2c969bd8e8a7db972&amp;type=3#GameHUD"/>
+    <ui:Label text="Start" class="text-pixel-dark text-pixel-light" style="flex-grow: 1; flex-wrap: wrap; white-space: normal; font-size: 86%;"/>
+</ui:UXML>

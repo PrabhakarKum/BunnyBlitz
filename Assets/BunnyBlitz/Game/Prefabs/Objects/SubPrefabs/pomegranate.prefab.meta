@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b75dad2223075473eb2dc6ce8bd8ab54
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Objects/SubPrefabs/pomegranate.prefab
+  uploadId: 977722

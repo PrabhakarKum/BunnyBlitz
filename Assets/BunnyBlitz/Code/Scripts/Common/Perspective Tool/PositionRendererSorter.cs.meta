@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f8a5868055432ce4391b02b4cc5071ca
+timeCreated: 1526464042
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Common/Perspective Tool/PositionRendererSorter.cs
+  uploadId: 977722

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bcd8a0d45fa1449849afca69ad1b4bbe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Collectables/Collectable Dynamic/CoinCollectablePhysics.prefab
+  uploadId: 977722

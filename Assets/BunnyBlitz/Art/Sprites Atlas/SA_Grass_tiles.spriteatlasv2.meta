@@ -1,0 +1,66 @@
+fileFormatVersion: 2
+guid: 7fac4ae80784347fa9d89e18976cd464
+SpriteAtlasImporter:
+  externalObjects: {}
+  textureSettings:
+    serializedVersion: 2
+    anisoLevel: 1
+    compressionQuality: 50
+    maxTextureSize: 2048
+    textureCompression: 0
+    filterMode: 1
+    generateMipMaps: 0
+    readable: 0
+    crunchedCompression: 0
+    sRGB: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  packingSettings:
+    serializedVersion: 2
+    padding: 8
+    blockOffset: 1
+    allowAlphaSplitting: 0
+    enableRotation: 0
+    enableTightPacking: 0
+    enableAlphaDilation: 0
+  secondaryTextureSettings:
+    (Matches the names of the Secondary Textures in your Sprites.):
+      platformSettings:
+      - serializedVersion: 4
+        buildTarget: DefaultTexturePlatform
+        maxTextureSize: 2048
+        resizeAlgorithm: 0
+        textureFormat: -1
+        textureCompression: 0
+        compressionQuality: 50
+        crunchedCompression: 0
+        allowsAlphaSplitting: 0
+        overridden: 0
+        ignorePlatformSupport: 0
+        androidETC2FallbackOverride: 0
+        forceMaximumCompressionQuality_BC6H_BC7: 0
+      sRGB: 1
+  variantMultiplier: 1
+  bindAsDefault: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Sprites Atlas/SA_Grass_tiles.spriteatlasv2
+  uploadId: 977722

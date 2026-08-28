@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 902e09c5a941c4008ae30429c99bd64c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Timeline/SingalStartBossDisableHUD.signal
+  uploadId: 977722

@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-3243350930892378746
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Lapping_02_{-3243350930892378746}
+  m_AudioClip: {fileID: 8300000, guid: 6fb7a7c022edfda4a862529fb973682b, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &556006161867853983
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Lapping_03_{556006161867853983}
+  m_AudioClip: {fileID: 8300000, guid: c734cf4e2a612d8439b36adfad37d71f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &932842445521859752
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Lapping_01_{932842445521859752}
+  m_AudioClip: {fileID: 8300000, guid: e51cf65bdbbb85f46b8dd5128d1bc29f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1139867149961318962
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Lapping_04_{1139867149961318962}
+  m_AudioClip: {fileID: 8300000, guid: df3f8452793ca5b42a108f48875421f1, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5012583328373356127
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Lapping_06_{5012583328373356127}
+  m_AudioClip: {fileID: 8300000, guid: 879d9bacb4ebe9041b6ddf35a072f66f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &6009611459888827545
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Lapping_05_{6009611459888827545}
+  m_AudioClip: {fileID: 8300000, guid: 198fd6dad3dd134459ce70e127728c4a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_AMB_Cave_Water_Lapping
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 932842445521859752}
+  - {fileID: -3243350930892378746}
+  - {fileID: 556006161867853983}
+  - {fileID: 1139867149961318962}
+  - {fileID: 6009611459888827545}
+  - {fileID: 5012583328373356127}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0

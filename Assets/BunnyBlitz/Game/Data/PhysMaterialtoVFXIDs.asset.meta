@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a6f179d43c4f644986837e4314547ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Data/PhysMaterialtoVFXIDs.asset
+  uploadId: 977722

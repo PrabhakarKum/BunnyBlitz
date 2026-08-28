@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29e6be0889c8c438db91a700b0ff2e53
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Materials/MAT_Scarecrow.mat
+  uploadId: 977722

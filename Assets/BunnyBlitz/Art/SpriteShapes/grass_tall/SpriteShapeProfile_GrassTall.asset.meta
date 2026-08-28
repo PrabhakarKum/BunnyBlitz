@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da4f3dfc16e78418883f688cabbd0f72
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/SpriteShapes/grass_tall/SpriteShapeProfile_GrassTall.asset
+  uploadId: 977722

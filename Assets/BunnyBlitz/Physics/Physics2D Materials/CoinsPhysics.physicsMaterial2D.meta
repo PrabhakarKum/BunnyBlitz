@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d420aa6bb5754fe8a4b92198576b196
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Physics/Physics2D Materials/CoinsPhysics.physicsMaterial2D
+  uploadId: 977722

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e851728f4fe7c407ca7efeb38a54eb2f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Animations/DoorAnimation.controller
+  uploadId: 977722

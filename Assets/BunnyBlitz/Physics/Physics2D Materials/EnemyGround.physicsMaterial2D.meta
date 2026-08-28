@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eef492c20edc64d8b8ba3d186c8a8495
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Physics/Physics2D Materials/EnemyGround.physicsMaterial2D
+  uploadId: 977722

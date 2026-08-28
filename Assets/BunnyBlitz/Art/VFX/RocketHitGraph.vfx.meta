@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f56e60ad0c507204e9fe0e4a10befef9
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/VFX/RocketHitGraph.vfx
+  uploadId: 977722

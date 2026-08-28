@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0e816aef93b266448aa94c3ae805d428
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Objects/DamageZone.cs
+  uploadId: 977722

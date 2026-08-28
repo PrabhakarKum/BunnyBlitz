@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 076dab42eafe64142ab677c9b0798b4e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/VFX/CollectibleVfxManager.cs
+  uploadId: 977722

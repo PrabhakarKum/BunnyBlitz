@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e1a3e312e7044d0d975abfa0f6ca1a6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Animations/ANIM_spring_idle.anim
+  uploadId: 977722

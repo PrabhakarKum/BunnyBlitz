@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ab9b777940afa0a4fabbfa28e57936cf
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/ThirdPartyNotice.txt
+  uploadId: 977722

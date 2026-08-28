@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b9c61b26307264226b8adf96d261516f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Player/PlayerMovement.cs
+  uploadId: 977722

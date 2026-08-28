@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e89fb7da0b2d40c6a79778275bff3e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Materials/SpriteShapeGrassBackFillMat.mat
+  uploadId: 977722

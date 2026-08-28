@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52b85e88ae1a4634d98ebc11c71a19e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6418180475301049370
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Audio/Player Actions/BB_PA_Double_Jump/BB_PA_Double_Jump.asset
+  uploadId: 977722

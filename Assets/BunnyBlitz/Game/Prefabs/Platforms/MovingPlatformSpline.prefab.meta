@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8f00d7a1d94cb4afdad13f7c74fe08e3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Platforms/MovingPlatformSpline.prefab
+  uploadId: 977722

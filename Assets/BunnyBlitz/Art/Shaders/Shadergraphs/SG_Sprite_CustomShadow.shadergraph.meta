@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a7e25a4bb10634e79b3c347018273dd6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Shaders/Shadergraphs/SG_Sprite_CustomShadow.shadergraph
+  uploadId: 977722

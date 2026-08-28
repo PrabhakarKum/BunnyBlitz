@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f71156bccada4e1d8c1c2ccca7b3802
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Materials/HealthbarUI.mat
+  uploadId: 977722

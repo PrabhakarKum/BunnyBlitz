@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8c4483e79326460b9a49cadf40ea6c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Materials/MAT_megasnail_liquid.mat
+  uploadId: 977722

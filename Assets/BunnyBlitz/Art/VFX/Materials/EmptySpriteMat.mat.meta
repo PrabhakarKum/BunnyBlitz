@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 674a429746d5b424fa5d92c571dba72f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/VFX/Materials/EmptySpriteMat.mat
+  uploadId: 977722

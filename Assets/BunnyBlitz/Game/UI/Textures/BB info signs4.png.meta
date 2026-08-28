@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 9dc59d6fd58954c4d881dcda74f98b9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8037004128677792812
+    second: BB info signs4_0
+  - first:
+      213: 5105667734828890801
+    second: BB info signs4_1
+  - first:
+      213: -4324853160352934410
+    second: BB info signs4_2
+  - first:
+      213: -9022772176855793362
+    second: BB info signs4_3
+  - first:
+      213: -4966486238001652268
+    second: BB info signs4_4
+  - first:
+      213: 2819458193158418158
+    second: BB info signs4_5
+  - first:
+      213: -2868515583739601023
+    second: BB info signs4_6
+  - first:
+      213: -3505728301481324522
+    second: BB info signs4_7
+  - first:
+      213: -8327810284161059493
+    second: BB info signs4_8
+  - first:
+      213: -6020835145461001516
+    second: BB info signs4_9
+  - first:
+      213: -6718835770376520205
+    second: BB info signs4_10
+  - first:
+      213: -7407437133400869522
+    second: BB info signs4_11
+  - first:
+      213: -8038733086154113396
+    second: BB info signs4_12
+  - first:
+      213: -1339049130296431970
+    second: BB info signs4_13
+  - first:
+      213: -9209032834723708527
+    second: BB info signs4_14
+  - first:
+      213: 9121534080719256114
+    second: BB info signs4_15
+  - first:
+      213: -3155747747393175285
+    second: BB info signs4_16
+  - first:
+      213: -8041692850471908645
+    second: BB info signs4_17
+  - first:
+      213: -4707438654288057604
+    second: BB info signs4_18
+  - first:
+      213: 4159732964753369377
+    second: BB info signs4_19
+  - first:
+      213: 3034021756498815782
+    second: BB info signs4_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BB info signs4_0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 191
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3ffcba353d67090800000000000000
+      internalID: -8037004128677792812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 191
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba36abf0c9fad640800000000000000
+      internalID: 5105667734828890801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 191
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f51077f6f80bf3c0800000000000000
+      internalID: -4324853160352934410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 191
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e218b35828ca8c280800000000000000
+      internalID: -9022772176855793362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 192
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd9b02841f731bb0800000000000000
+      internalID: -4966486238001652268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 213
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeea54ed94ab02720800000000000000
+      internalID: 2819458193158418158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 192
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f578e464cf038d0800000000000000
+      internalID: -2868515583739601023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 130
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6101c271fa6295fc0800000000000000
+      internalID: -3505728301481324522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 129
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b553cbf4bacad6c80800000000000000
+      internalID: -8327810284161059493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 161
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d21c9fb552b17ca0800000000000000
+      internalID: -6020835145461001516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 129
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdf48af676e1c2a0800000000000000
+      internalID: -6718835770376520205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 128
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e657a976c2f733990800000000000000
+      internalID: -7407437133400869522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 129
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eba9369dea07090800000000000000
+      internalID: -8038733086154113396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 128
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9aa2eb19edba6de0800000000000000
+      internalID: -1339049130296431970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 129
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1918269ad61f23080800000000000000
+      internalID: -9209032834723708527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 54
+        width: 111
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23af3ef1be2369e70800000000000000
+      internalID: 9121534080719256114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 66
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0104e3c4288434d0800000000000000
+      internalID: -3155747747393175285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 66
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdac2de85fa266090800000000000000
+      internalID: -8041692850471908645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 66
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaa7392c71dbaeb0800000000000000
+      internalID: -4707438654288057604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 66
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1296b9c97175ab930800000000000000
+      internalID: 4159732964753369377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BB info signs4_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b2bec66b20b1a20800000000000000
+      internalID: 3034021756498815782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BB info signs4_0: -8037004128677792812
+      BB info signs4_1: 5105667734828890801
+      BB info signs4_10: -6718835770376520205
+      BB info signs4_11: -7407437133400869522
+      BB info signs4_12: -8038733086154113396
+      BB info signs4_13: -1339049130296431970
+      BB info signs4_14: -9209032834723708527
+      BB info signs4_15: 9121534080719256114
+      BB info signs4_16: -3155747747393175285
+      BB info signs4_17: -8041692850471908645
+      BB info signs4_18: -4707438654288057604
+      BB info signs4_19: 4159732964753369377
+      BB info signs4_2: -4324853160352934410
+      BB info signs4_20: 3034021756498815782
+      BB info signs4_3: -9022772176855793362
+      BB info signs4_4: -4966486238001652268
+      BB info signs4_5: 2819458193158418158
+      BB info signs4_6: -2868515583739601023
+      BB info signs4_7: -3505728301481324522
+      BB info signs4_8: -8327810284161059493
+      BB info signs4_9: -6020835145461001516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/UI/Textures/BB info signs4.png
+  uploadId: 977722

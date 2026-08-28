@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b6121aec267a5e49bf5f68131cfe173
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6418180475301049370
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Audio/Player Actions/BB_PA_Changing_Direction/BB_PA_Changing_Direction.asset
+  uploadId: 977722

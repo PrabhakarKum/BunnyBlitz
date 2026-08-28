@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad44f1cdc951542b0982b6426a8724ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Platforms/SwingingPlatform.prefab
+  uploadId: 977722

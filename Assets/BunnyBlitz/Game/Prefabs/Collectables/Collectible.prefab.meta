@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59a2d6212ce0340e68cace762813855f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Collectables/Collectible.prefab
+  uploadId: 977722

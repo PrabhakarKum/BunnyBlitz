@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18c8d66694b69c6418aa37671204b1f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6418180475301049370
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Audio/Player Actions/BB_PA_Landing_Grass/BB_PA_Landing_Grass.asset
+  uploadId: 977722

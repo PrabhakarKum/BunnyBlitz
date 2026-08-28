@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 865911173259d4fc68696fec7627d2d2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Physics/Physics2D Materials/Weight.physicsMaterial2D
+  uploadId: 977722

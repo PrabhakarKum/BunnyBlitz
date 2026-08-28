@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d861c69f6912b244786e935c16a27afb
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Input/PlayerInputActions.cs
+  uploadId: 977722

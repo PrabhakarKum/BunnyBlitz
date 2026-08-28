@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 183c478169a124651bab1a85a23a261f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Collectables/UNITY_letters_Y.prefab
+  uploadId: 977722

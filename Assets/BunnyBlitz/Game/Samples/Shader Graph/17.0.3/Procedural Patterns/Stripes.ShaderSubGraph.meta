@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1957c4e211f004e43b5a2040d7082630
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: MainAsset
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 60072b568d64c40a485e0fc55012dc9f, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Samples/Shader Graph/17.0.3/Procedural Patterns/Stripes.ShaderSubGraph
+  uploadId: 977722

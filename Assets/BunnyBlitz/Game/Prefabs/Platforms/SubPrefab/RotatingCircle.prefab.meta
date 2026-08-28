@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a21e8c995eac41569f53e8beaaa0e4e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Platforms/SubPrefab/RotatingCircle.prefab
+  uploadId: 977722

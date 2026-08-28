@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d7b1e5c4ab7f4bc7bc7abf2aa661718
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Animations/CTRL_Rabbit.controller
+  uploadId: 977722

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ab6990f94e2f245018bd1a0c1ee7808d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Common/DynamicDepthOfFieldController.cs
+  uploadId: 977722

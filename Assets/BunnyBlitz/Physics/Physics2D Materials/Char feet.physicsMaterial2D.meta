@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f20d65dc15c4c4c0fb8e611c8c0882de
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Physics/Physics2D Materials/Char feet.physicsMaterial2D
+  uploadId: 977722

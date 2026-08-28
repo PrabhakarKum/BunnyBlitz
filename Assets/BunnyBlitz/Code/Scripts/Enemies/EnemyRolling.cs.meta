@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 6633f2278f35a45a68d59113c3d17792
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Enemies/EnemyRolling.cs
+  uploadId: 977722

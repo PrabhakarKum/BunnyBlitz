@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b49d4436c602542da8c0ce561be65064
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Materials/MAT_GoldMatCap.mat
+  uploadId: 977722

@@ -6,7 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/BunnyBlitz/Game/Scenes/LevelSelect.unity
+    guid: a2f22f098e32ea942a02f71be67e0a02
+  - enabled: 1
+    path: Assets/BunnyBlitz/Game/Scenes/LevelSelectEnviro.unity
+    guid: cc4facf4d68154cadaa1f7d88070880b
+  - enabled: 1
+    path: Assets/BunnyBlitz/Game/Scenes/LevelDemo26.unity
+    guid: 69668ff0fb3e544a6b3055be696a71c8
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.input.settings: {fileID: 11400000, guid: e22dc7e5a4de04831808bc4e98c034a7, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 07b30fb4996854a6ca67048277bc8cd4, type: 3}

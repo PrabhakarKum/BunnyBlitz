@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bae361bcbd9b048b1b5c09c3c72842d7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Timeline/SignalCaveMaskExpand.signal
+  uploadId: 977722

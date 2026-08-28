@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a5e28006c17a944288c3ab63fc22093
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/UI/EnemyHealthbar.prefab
+  uploadId: 977722

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09aeee03382ad423ab326955f1ec0500
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Animations/ANIM_ScaleZero.anim
+  uploadId: 977722

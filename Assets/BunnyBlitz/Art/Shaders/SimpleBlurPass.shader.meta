@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 48ef055e888741b48882d4d6f9e13530
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Shaders/SimpleBlurPass.shader
+  uploadId: 977722

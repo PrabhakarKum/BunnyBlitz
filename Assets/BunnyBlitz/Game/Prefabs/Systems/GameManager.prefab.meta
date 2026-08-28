@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 671d46064d1f54699bddf7b5e74bf3db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Systems/GameManager.prefab
+  uploadId: 977722

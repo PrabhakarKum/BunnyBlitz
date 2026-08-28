@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff7f011541f4345dab4dcd0bba0838fd
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Shaders/HealthbarUIShader.shader
+  uploadId: 977722

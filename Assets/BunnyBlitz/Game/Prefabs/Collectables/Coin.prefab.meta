@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2150cea953e5046d3bb24fc9801d6012
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Collectables/Coin.prefab
+  uploadId: 977722

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd2af9e421d8c467bad3ecfad3fc6a30
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Animations/Anim_Megasnail_Turret_Shoot.anim
+  uploadId: 977722

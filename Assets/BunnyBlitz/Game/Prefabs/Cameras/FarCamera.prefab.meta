@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 185832f1b8d3d47ee845f2c6389de1e3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Cameras/FarCamera.prefab
+  uploadId: 977722

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b967ca9a7d97f4da18ded182ffb83b33
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Animations/ANIM_RabbitLand.anim
+  uploadId: 977722

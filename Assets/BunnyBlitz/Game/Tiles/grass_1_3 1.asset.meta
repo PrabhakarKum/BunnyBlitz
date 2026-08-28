@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b01a7ab8f3e664c5f85f83a48f3aa09b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Tiles/grass_1_3 1.asset
+  uploadId: 977722

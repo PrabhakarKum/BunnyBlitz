@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c87ec36ce504404180d8e0a5c38d369
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6418180475301049370
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Audio/Ambience/BB_AMB_Cave_Water_Dripping/BB_AMB_Cave_Water_Dripping.asset
+  uploadId: 977722

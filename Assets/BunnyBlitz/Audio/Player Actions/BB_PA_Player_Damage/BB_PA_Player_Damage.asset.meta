@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13e7ce2c99d79444a97981011cd08134
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6418180475301049370
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Audio/Player Actions/BB_PA_Player_Damage/BB_PA_Player_Damage.asset
+  uploadId: 977722

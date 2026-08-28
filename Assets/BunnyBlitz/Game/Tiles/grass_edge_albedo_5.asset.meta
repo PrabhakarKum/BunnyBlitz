@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d915c42a88b24658aca175ac5461b41
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Tiles/grass_edge_albedo_5.asset
+  uploadId: 977722

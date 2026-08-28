@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8134957657646124934
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SNAIL_ENEMY_General_Vocalization_09_{-8134957657646124934}
+  m_AudioClip: {fileID: 8300000, guid: dd536120ae756b348b2db5a0ef139bd8, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3936146947813815252
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SNAIL_ENEMY_General_Vocalization_05_{-3936146947813815252}
+  m_AudioClip: {fileID: 8300000, guid: 3fa6daca9ae586e4381d0a13c1960e86, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2537887765783559744
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SNAIL_ENEMY_General_Vocalization_08_{-2537887765783559744}
+  m_AudioClip: {fileID: 8300000, guid: 9f87fa0e17829de48ae3132ffbc01e15, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1824013758430611932
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SNAIL_ENEMY_General_Vocalization_03_{-1824013758430611932}
+  m_AudioClip: {fileID: 8300000, guid: db8e077136c86ec4983ec93ec302b549, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &826202722449926334
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SNAIL_ENEMY_General_Vocalization_01_{826202722449926334}
+  m_AudioClip: {fileID: 8300000, guid: 2f5d7d4c5238cbf49808354de4a84544, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1804471350179771444
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SNAIL_ENEMY_General_Vocalization_04_{1804471350179771444}
+  m_AudioClip: {fileID: 8300000, guid: bc3f9fb6567cbb24dafd22e7ad884341, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2108874712370511828
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SNAIL_ENEMY_General_Vocalization_02_{2108874712370511828}
+  m_AudioClip: {fileID: 8300000, guid: eedc08307e2537f488c690653ab51232, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5276862774859392711
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SNAIL_ENEMY_General_Vocalization_07_{5276862774859392711}
+  m_AudioClip: {fileID: 8300000, guid: db3b038ab7804df4980303d446832052, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5449549889074791659
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SNAIL_ENEMY_General_Vocalization_06_{5449549889074791659}
+  m_AudioClip: {fileID: 8300000, guid: 7b17e42dc22122140a52a9d3dce2ca4e, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Snail_General_Vocalization
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 5
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: -2, y: 2}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 826202722449926334}
+  - {fileID: 2108874712370511828}
+  - {fileID: -1824013758430611932}
+  - {fileID: 1804471350179771444}
+  - {fileID: -3936146947813815252}
+  - {fileID: 5449549889074791659}
+  - {fileID: 5276862774859392711}
+  - {fileID: -2537887765783559744}
+  - {fileID: -8134957657646124934}
+  m_AvoidRepeatingLast: 3
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 0
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 1
+  m_LoopCountRandomizationEnabled: 0

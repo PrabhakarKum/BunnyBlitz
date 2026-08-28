@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 89dab39f406bc364f951093d8024974d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/UI/HealthbarHandler.cs
+  uploadId: 977722

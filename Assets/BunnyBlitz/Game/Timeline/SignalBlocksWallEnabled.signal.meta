@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d331594f6335d40eb972443ded9c862f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Timeline/SignalBlocksWallEnabled.signal
+  uploadId: 977722

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a4c514f401c8e1249892569c9614f657
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Templates/BaseLevelTemplate.unity
+  uploadId: 977722

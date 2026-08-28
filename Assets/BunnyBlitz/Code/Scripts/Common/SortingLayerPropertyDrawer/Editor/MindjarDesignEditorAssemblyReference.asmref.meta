@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6333e4307ef780a46badfb4aeeff9c49
+AssemblyDefinitionReferenceImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Common/SortingLayerPropertyDrawer/Editor/MindjarDesignEditorAssemblyReference.asmref
+  uploadId: 977722

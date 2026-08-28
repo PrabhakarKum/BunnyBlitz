@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e69170bad9a61d42a72a51321252cfd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Data/VFXInteractTable.asset
+  uploadId: 977722

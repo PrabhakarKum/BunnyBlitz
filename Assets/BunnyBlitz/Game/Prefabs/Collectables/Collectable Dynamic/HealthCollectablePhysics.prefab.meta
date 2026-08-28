@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f084c2a8853a46cca2ddfffab87d96c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Collectables/Collectable Dynamic/HealthCollectablePhysics.prefab
+  uploadId: 977722

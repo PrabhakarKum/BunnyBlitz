@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dba25fb1d5fad4ec2b08fd90249eb554
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Cameras/EndOfLevelCamera.prefab
+  uploadId: 977722

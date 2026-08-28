@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-5861979842218942900
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Damage_01_{-5861979842218942900}
+  m_AudioClip: {fileID: 8300000, guid: bc536449b64109e4989f2d96eadcbc3e, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-5352415797539522063
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Damage_04_{-5352415797539522063}
+  m_AudioClip: {fileID: 8300000, guid: 1357e8268fd3f8a41a6f607317c9618f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3219536166900058961
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Damage_05_{-3219536166900058961}
+  m_AudioClip: {fileID: 8300000, guid: d181b0bdd666d8c42b7dc96dddfcb3e2, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2754542741251979770
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Damage_02_{2754542741251979770}
+  m_AudioClip: {fileID: 8300000, guid: bb880c91d11adfe4fb4d77cf3059729b, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Damage
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -5861979842218942900}
+  - {fileID: 2754542741251979770}
+  - {fileID: 6892132953913767952}
+  - {fileID: -5352415797539522063}
+  - {fileID: -3219536166900058961}
+  m_AvoidRepeatingLast: 1
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6892132953913767952
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Damage_03_{6892132953913767952}
+  m_AudioClip: {fileID: 8300000, guid: 00561bb90605dcd46b77ddb5fae5fea9, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

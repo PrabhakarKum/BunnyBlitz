@@ -1,0 +1,7 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="healthbar-root" style="flex-grow: 1; width: 200px; height: 16px; position: absolute; top: 0; left: 0; display: flex;">
+        <ui:VisualElement name="healthbar-container" style="flex-grow: 1; width: 100%; height: 100%; background-color: rgb(0, 0, 0); border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px;">
+            <ui:VisualElement name="healthbar-fill" style="flex-grow: 1; width: 50%; height: 100%; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/healthmeterTex.png?fileID=21300000&amp;guid=5714db82e0cee4defa8cf326e5758568&amp;type=3#healthmeterTex&quot;); -unity-background-image-tint-color: rgb(255, 49, 0);"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57622d006f37bb14c92f1ad8b989566f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/VFX/VFX_LayerSwitchTimeline.playable
+  uploadId: 977722

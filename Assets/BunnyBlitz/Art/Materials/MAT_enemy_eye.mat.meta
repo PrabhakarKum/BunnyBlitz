@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc85de3e4dcee4209aa5a2fcfb15dd71
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Materials/MAT_enemy_eye.mat
+  uploadId: 977722

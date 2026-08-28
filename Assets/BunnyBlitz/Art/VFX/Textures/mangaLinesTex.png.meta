@@ -1,0 +1,2334 @@
+fileFormatVersion: 2
+guid: bac5ce220f322449da8f1b26e22900ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8719888189256760693
+    second: mangaLinesTex_0
+  - first:
+      213: -5286486245172860892
+    second: mangaLinesTex_1
+  - first:
+      213: -5025648539380515394
+    second: mangaLinesTex_2
+  - first:
+      213: 8041240279825609812
+    second: mangaLinesTex_3
+  - first:
+      213: 7355377871299515649
+    second: mangaLinesTex_4
+  - first:
+      213: -5627120199217668251
+    second: mangaLinesTex_5
+  - first:
+      213: 3823771122966085156
+    second: mangaLinesTex_6
+  - first:
+      213: 8651371823837054110
+    second: mangaLinesTex_7
+  - first:
+      213: -4619549005681332860
+    second: mangaLinesTex_8
+  - first:
+      213: 5852098794632933547
+    second: mangaLinesTex_9
+  - first:
+      213: -6532120009163160116
+    second: mangaLinesTex_10
+  - first:
+      213: 2908625953143427781
+    second: mangaLinesTex_11
+  - first:
+      213: -4555004774321140064
+    second: mangaLinesTex_12
+  - first:
+      213: 4718974992258838912
+    second: mangaLinesTex_13
+  - first:
+      213: -1939078327967428258
+    second: mangaLinesTex_14
+  - first:
+      213: -3622538626341217619
+    second: mangaLinesTex_15
+  - first:
+      213: 5265674434511102906
+    second: mangaLinesTex_16
+  - first:
+      213: -2406031732279899666
+    second: mangaLinesTex_17
+  - first:
+      213: 3938252370200197008
+    second: mangaLinesTex_18
+  - first:
+      213: -7492773025050857881
+    second: mangaLinesTex_19
+  - first:
+      213: -2900455291904748642
+    second: mangaLinesTex_20
+  - first:
+      213: 1817730443998791466
+    second: mangaLinesTex_21
+  - first:
+      213: 2067768983158079662
+    second: mangaLinesTex_22
+  - first:
+      213: 8236751664413276577
+    second: mangaLinesTex_23
+  - first:
+      213: -6439118765458537895
+    second: mangaLinesTex_24
+  - first:
+      213: 4347906990445788013
+    second: mangaLinesTex_25
+  - first:
+      213: 4608886753100896436
+    second: mangaLinesTex_26
+  - first:
+      213: 7618515086987470429
+    second: mangaLinesTex_27
+  - first:
+      213: 3339527993997661541
+    second: mangaLinesTex_28
+  - first:
+      213: 4145739108467849465
+    second: mangaLinesTex_29
+  - first:
+      213: 649876157736415543
+    second: mangaLinesTex_30
+  - first:
+      213: 4262373276834442048
+    second: mangaLinesTex_31
+  - first:
+      213: 80386426775982
+    second: mangaLinesTex_32
+  - first:
+      213: -2347401957925764032
+    second: mangaLinesTex_33
+  - first:
+      213: -6559201246437836733
+    second: mangaLinesTex_34
+  - first:
+      213: 7928174035198031428
+    second: mangaLinesTex_35
+  - first:
+      213: -8515831933143722361
+    second: mangaLinesTex_36
+  - first:
+      213: 3351998931033516511
+    second: mangaLinesTex_37
+  - first:
+      213: 5488742371941456100
+    second: mangaLinesTex_38
+  - first:
+      213: 3065468869143965187
+    second: mangaLinesTex_39
+  - first:
+      213: -3666802245779852980
+    second: mangaLinesTex_40
+  - first:
+      213: -8563455143929496793
+    second: mangaLinesTex_41
+  - first:
+      213: -1716309128511763213
+    second: mangaLinesTex_42
+  - first:
+      213: -3645605569241023045
+    second: mangaLinesTex_43
+  - first:
+      213: -5855799718590875563
+    second: mangaLinesTex_44
+  - first:
+      213: 8302965121802559186
+    second: mangaLinesTex_45
+  - first:
+      213: 3039103451634198215
+    second: mangaLinesTex_46
+  - first:
+      213: -2499971910983430579
+    second: mangaLinesTex_47
+  - first:
+      213: -826087541983824374
+    second: mangaLinesTex_48
+  - first:
+      213: 5340992096670650241
+    second: mangaLinesTex_49
+  - first:
+      213: -4185451089791473052
+    second: mangaLinesTex_50
+  - first:
+      213: -8423420994270070173
+    second: mangaLinesTex_51
+  - first:
+      213: 4988397861025346401
+    second: mangaLinesTex_52
+  - first:
+      213: 6587172043855907798
+    second: mangaLinesTex_53
+  - first:
+      213: 321984142588198176
+    second: mangaLinesTex_54
+  - first:
+      213: 8488695060848268462
+    second: mangaLinesTex_55
+  - first:
+      213: -7359282516846900579
+    second: mangaLinesTex_56
+  - first:
+      213: 4161724531551670194
+    second: mangaLinesTex_57
+  - first:
+      213: 1534899846941632876
+    second: mangaLinesTex_58
+  - first:
+      213: 9187429775071403901
+    second: mangaLinesTex_59
+  - first:
+      213: -8903575114129521286
+    second: mangaLinesTex_60
+  - first:
+      213: -7893133732103649901
+    second: mangaLinesTex_61
+  - first:
+      213: 7195839079952935944
+    second: mangaLinesTex_62
+  - first:
+      213: -7173879875165529657
+    second: mangaLinesTex_63
+  - first:
+      213: -6150491340277668294
+    second: mangaLinesTex_64
+  - first:
+      213: -7153828173802701288
+    second: mangaLinesTex_65
+  - first:
+      213: -665500492344868808
+    second: mangaLinesTex_66
+  - first:
+      213: 1714606418102539239
+    second: mangaLinesTex_67
+  - first:
+      213: -4591609911522722548
+    second: mangaLinesTex_68
+  - first:
+      213: -1381909846874072614
+    second: mangaLinesTex_69
+  - first:
+      213: 3016856248128413582
+    second: mangaLinesTex_70
+  - first:
+      213: -6807900827870062358
+    second: mangaLinesTex_71
+  - first:
+      213: -1397391247204096042
+    second: mangaLinesTex_72
+  - first:
+      213: -2791610293861234688
+    second: mangaLinesTex_73
+  - first:
+      213: 3832185552599972836
+    second: mangaLinesTex_74
+  - first:
+      213: 3910021893134379600
+    second: mangaLinesTex_75
+  - first:
+      213: 1347933872000430983
+    second: mangaLinesTex_76
+  - first:
+      213: -6906278796508758846
+    second: mangaLinesTex_77
+  - first:
+      213: -946479010150912639
+    second: mangaLinesTex_78
+  - first:
+      213: -6885456442051426734
+    second: mangaLinesTex_79
+  - first:
+      213: 1923565186601853471
+    second: mangaLinesTex_80
+  - first:
+      213: 6434808944582954557
+    second: mangaLinesTex_81
+  - first:
+      213: 8493371245543591948
+    second: mangaLinesTex_82
+  - first:
+      213: -7301845662077650645
+    second: mangaLinesTex_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mangaLinesTex_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 934
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57df5c1bb14430970800000000000000
+      internalID: 8719888189256760693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 775
+        width: 207
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428ab7ed4c0a2a6b0800000000000000
+      internalID: -5286486245172860892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 769
+        width: 172
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd734cc74f414ab0800000000000000
+      internalID: -5025648539380515394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 719
+        width: 227
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45471902e69389f60800000000000000
+      internalID: 8041240279825609812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 679
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1059397143d831660800000000000000
+      internalID: 7355377871299515649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 879
+        width: 42
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f94391ef378e1b0800000000000000
+      internalID: -5627120199217668251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 856
+        width: 30
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e3aceb393c01530800000000000000
+      internalID: 3823771122966085156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_7
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 727
+        width: 177
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9481ab36d8df0870800000000000000
+      internalID: 8651371823837054110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_8
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 847
+        width: 93
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48deadd97a014efb0800000000000000
+      internalID: -4619549005681332860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 777
+        width: 185
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0769419d4d63150800000000000000
+      internalID: 5852098794632933547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_10
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 831
+        width: 135
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5cb97d57f3955a0800000000000000
+      internalID: -6532120009163160116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 662
+        width: 317
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c29891d4e38d5820800000000000000
+      internalID: 2908625953143427781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 388
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae416c8a4f59c0c0800000000000000
+      internalID: -4555004774321140064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 845
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0813a85d0ca2d7140800000000000000
+      internalID: 4718974992258838912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_14
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 756
+        width: 39
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51d7ddc8820715e0800000000000000
+      internalID: -1939078327967428258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_15
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 574
+        width: 392
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daadcc7ff482abdc0800000000000000
+      internalID: -3622538626341217619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_16
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 694
+        width: 272
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3e3ebdffe631940800000000000000
+      internalID: 5265674434511102906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 720
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9832f13ee0c9ed0800000000000000
+      internalID: -2406031732279899666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_18
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 703
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0977f993aab77a630800000000000000
+      internalID: 3938252370200197008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_19
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 621
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ee633d1a2540890800000000000000
+      internalID: -7492773025050857881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_20
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 719
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e939d1f77438fb7d0800000000000000
+      internalID: -2900455291904748642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_21
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 669
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2706f34530e93910800000000000000
+      internalID: 1817730443998791466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 671
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea045b64fe032bc10800000000000000
+      internalID: 2067768983158079662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 273
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9f574aff1de4270800000000000000
+      internalID: 8236751664413276577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_24
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 615
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952ca464997a3a6a0800000000000000
+      internalID: -6439118765458537895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_25
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 560
+        width: 106
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b75f12f5ed65c30800000000000000
+      internalID: 4347906990445788013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 537
+        width: 256
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b81590451e06ff30800000000000000
+      internalID: 4608886753100896436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 559
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56a7d36b176ab960800000000000000
+      internalID: 7618515086987470429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 542
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56514b75403685e20800000000000000
+      internalID: 3339527993997661541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_29
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 551
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8bbab01cf988930800000000000000
+      internalID: 4145739108467849465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_30
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 535
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731ffd91ce2d40900800000000000000
+      internalID: 649876157736415543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_31
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 558
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ba5d989edf62b30800000000000000
+      internalID: 4262373276834442048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_32
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 561
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9a96c6c19400000800000000000000
+      internalID: 80386426775982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_33
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 559
+        width: 98
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04447c83b5a5c6fd0800000000000000
+      internalID: -2347401957925764032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_34
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 516
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348f5cfe73909f4a0800000000000000
+      internalID: -6559201246437836733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_35
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 535
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446347d9748860e60800000000000000
+      internalID: 7928174035198031428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_36
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 533
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7865a02c9ffa1d980800000000000000
+      internalID: -8515831933143722361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_37
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 551
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9edb3a441b48e20800000000000000
+      internalID: 3351998931033516511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_38
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8943f4b1eeb2c40800000000000000
+      internalID: 5488742371941456100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_39
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 533
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e2857e1bbba8a20800000000000000
+      internalID: 3065468869143965187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_40
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 533
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41ffa6f8c6ec1dc0800000000000000
+      internalID: -3666802245779852980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_41
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 503
+        width: 257
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b3710faee782980800000000000000
+      internalID: -8563455143929496793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_42
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 536
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fccb46e0f17e28e0800000000000000
+      internalID: -1716309128511763213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_43
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 503
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdf33ecc05386dc0800000000000000
+      internalID: -3645605569241023045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_44
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 516
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558fe896e250cbea0800000000000000
+      internalID: -5855799718590875563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 503
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dedf7b89ce0a3370800000000000000
+      internalID: 8302965121802559186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_46
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 457
+        width: 193
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6e156cc701d2a20800000000000000
+      internalID: 3039103451634198215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 465
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ec069dac05e4dd0800000000000000
+      internalID: -2499971910983430579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 474
+        width: 86
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06bda2e1c52984f0800000000000000
+      internalID: -826087541983824374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_49
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 493
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f093e93040f1a40800000000000000
+      internalID: 5340992096670650241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_50
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 478
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a2538c86a4ae5c0800000000000000
+      internalID: -4185451089791473052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_51
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 463
+        width: 211
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36af6f22c3ff91b80800000000000000
+      internalID: -8423420994270070173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 185
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163fbb8cc695a3540800000000000000
+      internalID: 4988397861025346401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_53
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 469
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db4a64d2165a6b50800000000000000
+      internalID: 6587172043855907798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 471
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d374a2fdae77400800000000000000
+      internalID: 321984142588198176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_55
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 464
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4597cce27edc570800000000000000
+      internalID: 8488695060848268462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_56
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 479
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a0995ca839ed990800000000000000
+      internalID: -7359282516846900579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_57
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 479
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf8a24696a61c930800000000000000
+      internalID: 4161724531551670194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_58
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69e1ce474f0d4510800000000000000
+      internalID: 1534899846941632876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 393
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f5afd04be408f70800000000000000
+      internalID: 9187429775071403901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_60
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 463
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a754d4b5b95207480800000000000000
+      internalID: -8903575114129521286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_61
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 463
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3950f45b0b4f57290800000000000000
+      internalID: -7893133732103649901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_62
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 462
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ce77d9481ccd360800000000000000
+      internalID: 7195839079952935944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_63
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 254
+        width: 418
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c95f6b2342417c90800000000000000
+      internalID: -7173879875165529657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_64
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 455
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3622a476b015aaa0800000000000000
+      internalID: -6150491340277668294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_65
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 459
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81efe44bd2f78bc90800000000000000
+      internalID: -7153828173802701288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_66
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 457
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830cfe304daa3c6f0800000000000000
+      internalID: -665500492344868808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 326
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e35b90f3718bc710800000000000000
+      internalID: 1714606418102539239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_68
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 400
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d7684ec135740c0800000000000000
+      internalID: -4591609911522722548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_69
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 397
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9d471e05872dce0800000000000000
+      internalID: -1381909846874072614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 343
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f9c1016c60ed920800000000000000
+      internalID: 3016856248128413582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_71
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 279
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae897b0544a7581a0800000000000000
+      internalID: -6807900827870062358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_72
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 355
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7e82a70187b9ce0800000000000000
+      internalID: -1397391247204096042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_73
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 351
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008c3137a353249d0800000000000000
+      internalID: -2791610293861234688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_74
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 338
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebfa10d478ae2530800000000000000
+      internalID: 3832185552599972836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_75
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 409
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a66441230334630800000000000000
+      internalID: 3910021893134379600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_76
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 279
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7837d4507b2d4b210800000000000000
+      internalID: 1347933872000430983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_77
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 279
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc784e8608f720a0800000000000000
+      internalID: -6906278796508758846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_78
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 300
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d679cda5e6dd2f0800000000000000
+      internalID: -946479010150912639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_79
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 287
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256891fb8d1f170a0800000000000000
+      internalID: -6885456442051426734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_80
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 113
+        width: 130
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1226b18850e1ba10800000000000000
+      internalID: 1923565186601853471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_81
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 227
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e8f5b54a80d4950800000000000000
+      internalID: 6434808944582954557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_82
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 241
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c009424e5248ed570800000000000000
+      internalID: 8493371245543591948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mangaLinesTex_83
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 217
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b297223ae02aaaa90800000000000000
+      internalID: -7301845662077650645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mangaLinesTex_0: 8719888189256760693
+      mangaLinesTex_1: -5286486245172860892
+      mangaLinesTex_10: -6532120009163160116
+      mangaLinesTex_11: 2908625953143427781
+      mangaLinesTex_12: -4555004774321140064
+      mangaLinesTex_13: 4718974992258838912
+      mangaLinesTex_14: -1939078327967428258
+      mangaLinesTex_15: -3622538626341217619
+      mangaLinesTex_16: 5265674434511102906
+      mangaLinesTex_17: -2406031732279899666
+      mangaLinesTex_18: 3938252370200197008
+      mangaLinesTex_19: -7492773025050857881
+      mangaLinesTex_2: -5025648539380515394
+      mangaLinesTex_20: -2900455291904748642
+      mangaLinesTex_21: 1817730443998791466
+      mangaLinesTex_22: 2067768983158079662
+      mangaLinesTex_23: 8236751664413276577
+      mangaLinesTex_24: -6439118765458537895
+      mangaLinesTex_25: 4347906990445788013
+      mangaLinesTex_26: 4608886753100896436
+      mangaLinesTex_27: 7618515086987470429
+      mangaLinesTex_28: 3339527993997661541
+      mangaLinesTex_29: 4145739108467849465
+      mangaLinesTex_3: 8041240279825609812
+      mangaLinesTex_30: 649876157736415543
+      mangaLinesTex_31: 4262373276834442048
+      mangaLinesTex_32: 80386426775982
+      mangaLinesTex_33: -2347401957925764032
+      mangaLinesTex_34: -6559201246437836733
+      mangaLinesTex_35: 7928174035198031428
+      mangaLinesTex_36: -8515831933143722361
+      mangaLinesTex_37: 3351998931033516511
+      mangaLinesTex_38: 5488742371941456100
+      mangaLinesTex_39: 3065468869143965187
+      mangaLinesTex_4: 7355377871299515649
+      mangaLinesTex_40: -3666802245779852980
+      mangaLinesTex_41: -8563455143929496793
+      mangaLinesTex_42: -1716309128511763213
+      mangaLinesTex_43: -3645605569241023045
+      mangaLinesTex_44: -5855799718590875563
+      mangaLinesTex_45: 8302965121802559186
+      mangaLinesTex_46: 3039103451634198215
+      mangaLinesTex_47: -2499971910983430579
+      mangaLinesTex_48: -826087541983824374
+      mangaLinesTex_49: 5340992096670650241
+      mangaLinesTex_5: -5627120199217668251
+      mangaLinesTex_50: -4185451089791473052
+      mangaLinesTex_51: -8423420994270070173
+      mangaLinesTex_52: 4988397861025346401
+      mangaLinesTex_53: 6587172043855907798
+      mangaLinesTex_54: 321984142588198176
+      mangaLinesTex_55: 8488695060848268462
+      mangaLinesTex_56: -7359282516846900579
+      mangaLinesTex_57: 4161724531551670194
+      mangaLinesTex_58: 1534899846941632876
+      mangaLinesTex_59: 9187429775071403901
+      mangaLinesTex_6: 3823771122966085156
+      mangaLinesTex_60: -8903575114129521286
+      mangaLinesTex_61: -7893133732103649901
+      mangaLinesTex_62: 7195839079952935944
+      mangaLinesTex_63: -7173879875165529657
+      mangaLinesTex_64: -6150491340277668294
+      mangaLinesTex_65: -7153828173802701288
+      mangaLinesTex_66: -665500492344868808
+      mangaLinesTex_67: 1714606418102539239
+      mangaLinesTex_68: -4591609911522722548
+      mangaLinesTex_69: -1381909846874072614
+      mangaLinesTex_7: 8651371823837054110
+      mangaLinesTex_70: 3016856248128413582
+      mangaLinesTex_71: -6807900827870062358
+      mangaLinesTex_72: -1397391247204096042
+      mangaLinesTex_73: -2791610293861234688
+      mangaLinesTex_74: 3832185552599972836
+      mangaLinesTex_75: 3910021893134379600
+      mangaLinesTex_76: 1347933872000430983
+      mangaLinesTex_77: -6906278796508758846
+      mangaLinesTex_78: -946479010150912639
+      mangaLinesTex_79: -6885456442051426734
+      mangaLinesTex_8: -4619549005681332860
+      mangaLinesTex_80: 1923565186601853471
+      mangaLinesTex_81: 6434808944582954557
+      mangaLinesTex_82: 8493371245543591948
+      mangaLinesTex_83: -7301845662077650645
+      mangaLinesTex_9: 5852098794632933547
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/VFX/Textures/mangaLinesTex.png
+  uploadId: 977722

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 91259a64f64af40ed828f2f9d35cfe28
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Blocks/SubPrefab/block_brick.prefab
+  uploadId: 977722

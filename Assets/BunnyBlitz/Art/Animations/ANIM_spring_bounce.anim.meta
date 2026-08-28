@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e23b941b19a7a4a81b5fb625be058ab4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Animations/ANIM_spring_bounce.anim
+  uploadId: 977722

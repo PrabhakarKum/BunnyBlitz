@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="collectible-root" style="flex-grow: 0; height: 140px; flex-direction: row; flex-shrink: 0; background-color: rgb(200, 200, 200);">
+        <ui:VisualElement name="collectible-icon" style="flex-grow: 0; width: 140px;"/>
+        <ui:Label text="Label" name="collectible-count" style="flex-grow: 1; -unity-text-align: middle-center; font-size: 72px;"/>
+    </ui:VisualElement>
+</ui:UXML>

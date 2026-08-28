@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 074c795512fd74897a718032a4f0c7fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/VFX/Prefabs/WaterSpriteShape.prefab
+  uploadId: 977722

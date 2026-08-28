@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8414846630791877291
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Wing_Flap_08_{-8414846630791877291}
+  m_AudioClip: {fileID: 8300000, guid: 76c4d2bdd9f92f349af08c42819a5497, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3818305693135944174
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Wing_Flap_03_{-3818305693135944174}
+  m_AudioClip: {fileID: 8300000, guid: d3e5a04481af6c24d8d84fb8faa65fea, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &549052725917194457
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Wing_Flap_04_{549052725917194457}
+  m_AudioClip: {fileID: 8300000, guid: 62ce4a855c9236744b04ea9a3e54ad47, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1018996524963748237
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Wing_Flap_05_{1018996524963748237}
+  m_AudioClip: {fileID: 8300000, guid: b30f36cbcc51ec647bcde22071c67d79, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &3581348843915204082
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Wing_Flap_01_{3581348843915204082}
+  m_AudioClip: {fileID: 8300000, guid: ef41b76f236e5304a83c3dff7a0e5e0d, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4356096681379354916
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Wing_Flap_06_{4356096681379354916}
+  m_AudioClip: {fileID: 8300000, guid: cfba1686bbc1172429e4834f3918144a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Grass_Footsteps
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 3581348843915204082}
+  - {fileID: 8927347858403795662}
+  - {fileID: -3818305693135944174}
+  - {fileID: 549052725917194457}
+  - {fileID: 1018996524963748237}
+  - {fileID: 4356096681379354916}
+  - {fileID: 7227310375150229076}
+  - {fileID: -8414846630791877291}
+  m_AvoidRepeatingLast: 1
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &7227310375150229076
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Wing_Flap_07_{7227310375150229076}
+  m_AudioClip: {fileID: 8300000, guid: 9df8e130ec603634ea12c6ad7f28833a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &8927347858403795662
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Wing_Flap_02_{8927347858403795662}
+  m_AudioClip: {fileID: 8300000, guid: bc1661f0a07a95448913ac8a70abb756, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

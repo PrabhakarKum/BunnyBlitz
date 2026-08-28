@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63ca3ce10b43126468ddc61bf62372e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6418180475301049370
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Audio/Enemy/BB_ENEMY_Death_Vocalizations/BB_ENEMY_Death_Vocalizations.asset
+  uploadId: 977722

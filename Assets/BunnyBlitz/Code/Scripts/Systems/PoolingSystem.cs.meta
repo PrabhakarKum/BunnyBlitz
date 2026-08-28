@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 36b24212f29aa6149888d625a5c18e67
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Systems/PoolingSystem.cs
+  uploadId: 977722

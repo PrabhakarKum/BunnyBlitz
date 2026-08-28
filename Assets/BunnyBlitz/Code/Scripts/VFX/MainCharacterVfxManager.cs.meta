@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d7aaf18d6a1204445861dc57c2f52be6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/VFX/MainCharacterVfxManager.cs
+  uploadId: 977722

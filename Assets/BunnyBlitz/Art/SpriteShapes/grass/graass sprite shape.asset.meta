@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d342bb2573b74069aa55c234e0c068a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/SpriteShapes/grass/graass sprite shape.asset
+  uploadId: 977722

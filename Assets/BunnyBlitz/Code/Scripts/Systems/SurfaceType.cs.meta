@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f943e485abe24f342a0324210d905518
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Systems/SurfaceType.cs
+  uploadId: 977722

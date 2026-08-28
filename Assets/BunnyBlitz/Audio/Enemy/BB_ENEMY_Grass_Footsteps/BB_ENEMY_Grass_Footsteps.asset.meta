@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 510b4967ab2d9394bb58b2fdc0870d7d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6418180475301049370
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Audio/Enemy/BB_ENEMY_Grass_Footsteps/BB_ENEMY_Grass_Footsteps.asset
+  uploadId: 977722

@@ -1,0 +1,2568 @@
+fileFormatVersion: 2
+guid: b1613ebc8329246fcbc704b111ed25f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -735751285020145115
+    second: Sprite_Strip_Flowers_1_0
+  - first:
+      213: 6160855325526538675
+    second: Sprite_Strip_Flowers_1_1
+  - first:
+      213: 4679519303421821223
+    second: Sprite_Strip_Flowers_1_2
+  - first:
+      213: 7095544655613577313
+    second: Sprite_Strip_Flowers_1_3
+  - first:
+      213: 8206588386391604704
+    second: Sprite_Strip_Flowers_1_4
+  - first:
+      213: 4251895542932160166
+    second: Sprite_Strip_Flowers_1_5
+  - first:
+      213: 8590913570740046184
+    second: Sprite_Strip_Flowers_1_6
+  - first:
+      213: 1792170458335901404
+    second: Sprite_Strip_Flowers_1_7
+  - first:
+      213: -4830856230964519859
+    second: Sprite_Strip_Flowers_1_8
+  - first:
+      213: -8905905370738840041
+    second: Sprite_Strip_Flowers_1_9
+  - first:
+      213: 1877937730431663435
+    second: Sprite_Strip_Flowers_1_10
+  - first:
+      213: -1835602511495739730
+    second: Sprite_Strip_Flowers_1_11
+  - first:
+      213: 7661250278155460626
+    second: Sprite_Strip_Flowers_1_12
+  - first:
+      213: -6100140734960169333
+    second: Sprite_Strip_Flowers_1_13
+  - first:
+      213: 8835446578922799629
+    second: Sprite_Strip_Flowers_1_14
+  - first:
+      213: 2526428430885566416
+    second: Sprite_Strip_Flowers_1_15
+  - first:
+      213: 3254242746171223662
+    second: Sprite_Strip_Flowers_1_16
+  - first:
+      213: -2725176691819332922
+    second: Sprite_Strip_Flowers_1_17
+  - first:
+      213: 2966856244125790905
+    second: Sprite_Strip_Flowers_1_18
+  - first:
+      213: 8481918873681663235
+    second: Sprite_Strip_Flowers_1_19
+  - first:
+      213: 4714592674443240595
+    second: Sprite_Strip_Flowers_1_20
+  - first:
+      213: 6527263815947701038
+    second: Sprite_Strip_Flowers_1_21
+  - first:
+      213: -2649052207930416552
+    second: Sprite_Strip_Flowers_1_22
+  - first:
+      213: 5546232659318857569
+    second: Sprite_Strip_Flowers_1_23
+  - first:
+      213: -3180646987684260025
+    second: Sprite_Strip_Flowers_1_24
+  - first:
+      213: 3455981380581817842
+    second: Sprite_Strip_Flowers_1_25
+  - first:
+      213: -5523979325087430634
+    second: Sprite_Strip_Flowers_1_26
+  - first:
+      213: 4171025117039019837
+    second: Sprite_Strip_Flowers_1_27
+  - first:
+      213: -3011853652132461103
+    second: Sprite_Strip_Flowers_1_28
+  - first:
+      213: 2643202576489767771
+    second: Sprite_Strip_Flowers_1_29
+  - first:
+      213: 4395143309604136215
+    second: Sprite_Strip_Flowers_1_30
+  - first:
+      213: 5678578586394151275
+    second: Sprite_Strip_Flowers_1_31
+  - first:
+      213: -8020947093294215597
+    second: Sprite_Strip_Flowers_1_32
+  - first:
+      213: 8296570169678031760
+    second: Sprite_Strip_Flowers_1_33
+  - first:
+      213: -6847202386472524890
+    second: Sprite_Strip_Flowers_1_34
+  - first:
+      213: 1135107775717054961
+    second: Sprite_Strip_Flowers_1_35
+  - first:
+      213: -3348049803756920646
+    second: Sprite_Strip_Flowers_1_36
+  - first:
+      213: 8375304379115541648
+    second: Sprite_Strip_Flowers_1_37
+  - first:
+      213: 6968796684152397850
+    second: Sprite_Strip_Flowers_1_38
+  - first:
+      213: 837723504147840918
+    second: Sprite_Strip_Flowers_1_39
+  - first:
+      213: -7475357750252149837
+    second: Sprite_Strip_Flowers_1_40
+  - first:
+      213: -7253341918302040284
+    second: Sprite_Strip_Flowers_1_41
+  - first:
+      213: -2922163487281429371
+    second: Sprite_Strip_Flowers_1_42
+  - first:
+      213: 4873075640133647665
+    second: Sprite_Strip_Flowers_1_43
+  - first:
+      213: 1437784969334341606
+    second: Sprite_Strip_Flowers_1_44
+  - first:
+      213: 9057367676052160251
+    second: Sprite_Strip_Flowers_1_45
+  - first:
+      213: 501523042846336463
+    second: Sprite_Strip_Flowers_1_46
+  - first:
+      213: 2047194754741868713
+    second: Sprite_Strip_Flowers_1_47
+  - first:
+      213: -7581361761094978264
+    second: Sprite_Strip_Flowers_1_48
+  - first:
+      213: -4747285084771427202
+    second: Sprite_Strip_Flowers_1_49
+  - first:
+      213: -666366265289687130
+    second: Sprite_Strip_Flowers_1_50
+  - first:
+      213: 2181803961565093255
+    second: Sprite_Strip_Flowers_1_51
+  - first:
+      213: 6154159076601003075
+    second: Sprite_Strip_Flowers_1_52
+  - first:
+      213: -8091746826457780491
+    second: Sprite_Strip_Flowers_1_53
+  - first:
+      213: 3835426205171851970
+    second: Sprite_Strip_Flowers_1_54
+  - first:
+      213: -1479367158514717448
+    second: Sprite_Strip_Flowers_1_55
+  - first:
+      213: 1181660039693004541
+    second: Sprite_Strip_Flowers_1_56
+  - first:
+      213: -3754664414561145830
+    second: Sprite_Strip_Flowers_1_57
+  - first:
+      213: -7234410236930805365
+    second: Sprite_Strip_Flowers_1_58
+  - first:
+      213: 1884092309130080054
+    second: Sprite_Strip_Flowers_1_59
+  - first:
+      213: -2505541278638284236
+    second: Sprite_Strip_Flowers_1_60
+  - first:
+      213: 30160759658640980
+    second: Sprite_Strip_Flowers_1_61
+  - first:
+      213: -8921542081334643702
+    second: Sprite_Strip_Flowers_1_62
+  - first:
+      213: -2283753252415068409
+    second: Sprite_Strip_Flowers_1_63
+  - first:
+      213: 4234975648167839876
+    second: Sprite_Strip_Flowers_1_64
+  - first:
+      213: 7807542993387913114
+    second: Sprite_Strip_Flowers_1_65
+  - first:
+      213: -2332279894223995611
+    second: Sprite_Strip_Flowers_1_66
+  - first:
+      213: 3834159271330200824
+    second: Sprite_Strip_Flowers_1_67
+  - first:
+      213: 3458202108824284815
+    second: Sprite_Strip_Flowers_1_68
+  - first:
+      213: -5205197880129786215
+    second: Sprite_Strip_Flowers_1_69
+  - first:
+      213: 7571732297358364656
+    second: Sprite_Strip_Flowers_1_70
+  - first:
+      213: 4032379413572572872
+    second: Sprite_Strip_Flowers_1_71
+  - first:
+      213: 204639185971168626
+    second: Sprite_Strip_Flowers_1_72
+  - first:
+      213: 4740148806611627687
+    second: Sprite_Strip_Flowers_1_73
+  - first:
+      213: -192975049810890387
+    second: Sprite_Strip_Flowers_1_74
+  - first:
+      213: 4039585504078418274
+    second: Sprite_Strip_Flowers_1_75
+  - first:
+      213: -3572474359113794446
+    second: Sprite_Strip_Flowers_1_76
+  - first:
+      213: 6270766184448758016
+    second: Sprite_Strip_Flowers_1_77
+  - first:
+      213: 6182142289956703777
+    second: Sprite_Strip_Flowers_1_78
+  - first:
+      213: 8443146165489923151
+    second: Sprite_Strip_Flowers_1_79
+  - first:
+      213: -993469758971593556
+    second: Sprite_Strip_Flowers_1_80
+  - first:
+      213: 292081027479205547
+    second: Sprite_Strip_Flowers_1_81
+  - first:
+      213: -2934556050365571227
+    second: Sprite_Strip_Flowers_1_82
+  - first:
+      213: 3055495993206997420
+    second: Sprite_Strip_Flowers_1_83
+  - first:
+      213: 7409961605987425629
+    second: Sprite_Strip_Flowers_1_84
+  - first:
+      213: 6145865983522783124
+    second: Sprite_Strip_Flowers_1_85
+  - first:
+      213: -8468478284072668766
+    second: Sprite_Strip_Flowers_1_86
+  - first:
+      213: -7392352644107423691
+    second: Sprite_Strip_Flowers_1_87
+  - first:
+      213: -954969343851069034
+    second: Sprite_Strip_Flowers_1_88
+  - first:
+      213: -7327516928816577187
+    second: Sprite_Strip_Flowers_1_89
+  - first:
+      213: -8334577609256020736
+    second: Sprite_Strip_Flowers_1_90
+  - first:
+      213: 1985820147908591472
+    second: Sprite_Strip_Flowers_1_91
+  - first:
+      213: -5801510895372187760
+    second: Sprite_Strip_Flowers_1_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 1014, y: 0, z: 995, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_0
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 719
+        width: 40
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a465dba161ac5f0800000000000000
+      internalID: -735751285020145115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_1
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 805
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b93596e641cf7550800000000000000
+      internalID: 6160855325526538675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_2
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 800
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7218a08630ef0f040800000000000000
+      internalID: 4679519303421821223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_3
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 755
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168c4cd3540787260800000000000000
+      internalID: 7095544655613577313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_4
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 787
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edb7b438a8a3e170800000000000000
+      internalID: 8206588386391604704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_5
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 797
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeb9820874c10b30800000000000000
+      internalID: 4251895542932160166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_6
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 649
+        width: 97
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8690b00406e093770800000000000000
+      internalID: 8590913570740046184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_7
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 785
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd67f0a59811fd810800000000000000
+      internalID: 1792170458335901404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 783
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c90685ad955fcb0800000000000000
+      internalID: -4830856230964519859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_9
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 784
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e2ed5304ed76480800000000000000
+      internalID: -8905905370738840041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_10
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 784
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dbea48a66cf0a10800000000000000
+      internalID: 1877937730431663435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_11
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 787
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea64b71cd31a686e0800000000000000
+      internalID: -1835602511495739730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_12
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 789
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210a1d4798a325a60800000000000000
+      internalID: 7661250278155460626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_13
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 620
+        width: 63
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e0fcc4252f75ba0800000000000000
+      internalID: -6100140734960169333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_14
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 779
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0242a0f9dfcd9a70800000000000000
+      internalID: 8835446578922799629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_15
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 649
+        width: 39
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7b165b54daf0320800000000000000
+      internalID: 2526428430885566416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_16
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 721
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e6d623984692d20800000000000000
+      internalID: 3254242746171223662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_17
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 775
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca3fe5cc3a3e2ad0800000000000000
+      internalID: -2725176691819332922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_18
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 774
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b274c2f8046c2920800000000000000
+      internalID: 2966856244125790905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_19
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 738
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3051a77c644d5b570800000000000000
+      internalID: 8481918873681663235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_20
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 719
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39429d4fe099d6140800000000000000
+      internalID: 4714592674443240595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_21
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 736
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bc2d09bdf759a50800000000000000
+      internalID: 6527263815947701038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_22
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 772
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852e7da5d0dac3bd0800000000000000
+      internalID: -2649052207930416552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_23
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 729
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fde5ce73d28fc40800000000000000
+      internalID: 5546232659318857569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_24
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 697
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747d92f9a621cd3d0800000000000000
+      internalID: -3180646987684260025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_25
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 715
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd71fb41cc16ff20800000000000000
+      internalID: 3455981380581817842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_26
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 727
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618cf853212e653b0800000000000000
+      internalID: -5523979325087430634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_27
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 780
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c752be3572e930800000000000000
+      internalID: 4171025117039019837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_28
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 710
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d58e259f0fb336d0800000000000000
+      internalID: -3011853652132461103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_29
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 769
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53e1113dba8ea420800000000000000
+      internalID: 2643202576489767771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_30
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 738
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715a3e9bd8faefc30800000000000000
+      internalID: 4395143309604136215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_31
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 732
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69c92f432d5ece40800000000000000
+      internalID: 5678578586394151275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_32
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 686
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e0ffd8d1fdfa090800000000000000
+      internalID: -8020947093294215597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_33
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 765
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09be2c9bc96532370800000000000000
+      internalID: 8296570169678031760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_34
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 720
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3291125b9d9f0a0800000000000000
+      internalID: -6847202386472524890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_35
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 720
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f916690286b0cf00800000000000000
+      internalID: 1135107775717054961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_36
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 753
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0a0c431765981d0800000000000000
+      internalID: -3348049803756920646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_37
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 684
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09494f265fe0b3470800000000000000
+      internalID: 8375304379115541648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_38
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 752
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10e2d679a326b060800000000000000
+      internalID: 6968796684152397850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_39
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 644
+        width: 52
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f3abca61130ab00800000000000000
+      internalID: 837723504147840918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_40
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 758
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3e1477bb1324890800000000000000
+      internalID: -7475357750252149837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_41
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 687
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f082584f3f65b90800000000000000
+      internalID: -7253341918302040284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_42
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 702
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58449f46ac36277d0800000000000000
+      internalID: -2922163487281429371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_43
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 742
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d76cdd974a0a340800000000000000
+      internalID: 4873075640133647665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_44
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 685
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efb198dfc904f310800000000000000
+      internalID: 1437784969334341606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_45
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 750
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeb133d9eb32bd70800000000000000
+      internalID: 9057367676052160251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_46
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 734
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5678fdc84c5f600800000000000000
+      internalID: 501523042846336463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_47
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 703
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a89e6e68c8196c10800000000000000
+      internalID: 2047194754741868713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_48
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 749
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825343465a799c690800000000000000
+      internalID: -7581361761094978264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_49
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 743
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c50ba1e514e1eb0800000000000000
+      internalID: -4747285084771427202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_50
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 696
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afba1b896790c6f0800000000000000
+      internalID: -666366265289687130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_51
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 598
+        width: 62
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d90a2b423574e10800000000000000
+      internalID: 2181803961565093255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_52
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 678
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c7c04f217f76550800000000000000
+      internalID: 6154159076601003075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_53
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 736
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fee69c122754bf80800000000000000
+      internalID: -8091746826457780491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_54
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 667
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c22e7900db2a3530800000000000000
+      internalID: 3835426205171851970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_55
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 726
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fce958486b387be0800000000000000
+      internalID: -1479367158514717448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_56
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 563
+        width: 109
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeec2f9b89166010800000000000000
+      internalID: 1181660039693004541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_57
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 664
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c6847ab90c4ebc0800000000000000
+      internalID: -3754664414561145830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_58
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 671
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b813a4418363a9b90800000000000000
+      internalID: -7234410236930805365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_59
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 727
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f6eb909f3a52a10800000000000000
+      internalID: 1884092309130080054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_60
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 678
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432efa46b778a3dd0800000000000000
+      internalID: -2505541278638284236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_61
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 717
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456fb951d072b6000800000000000000
+      internalID: 30160759658640980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_62
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 713
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a047951deb0503480800000000000000
+      internalID: -8921542081334643702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_63
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 697
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707282b448a7e40e0800000000000000
+      internalID: -2283753252415068409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_64
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 624
+        width: 40
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48849750ae7a5ca30800000000000000
+      internalID: 4234975648167839876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_65
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 610
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ff9718cf6f95c60800000000000000
+      internalID: 7807542993387913114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_66
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 663
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d3efb0bc312afd0800000000000000
+      internalID: -2332279894223995611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_67
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 630
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc38e30b8ba53530800000000000000
+      internalID: 3834159271330200824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_68
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 702
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e6af1ee700eff20800000000000000
+      internalID: 3458202108824284815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_69
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 603
+        width: 43
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e6f393b1c63c7b0800000000000000
+      internalID: -5205197880129786215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_70
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 657
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffc56e5862341960800000000000000
+      internalID: 7571732297358364656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_71
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 623
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6579156b3e5f730800000000000000
+      internalID: 4032379413572572872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_72
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 634
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275cfe2614607d200800000000000000
+      internalID: 204639185971168626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_73
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 568
+        width: 70
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aee398a93468c140800000000000000
+      internalID: 4740148806611627687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_74
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 685
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d613281f63a625df0800000000000000
+      internalID: -192975049810890387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_75
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 680
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26159620d9d7f0830800000000000000
+      internalID: 4039585504078418274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_76
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 672
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cb4d78f750c6ec0800000000000000
+      internalID: -3572474359113794446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_77
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 585
+        width: 34
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001999dee9c360750800000000000000
+      internalID: 6270766184448758016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_78
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 609
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e0ac788a16bc550800000000000000
+      internalID: 6182142289956703777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_79
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 598
+        width: 41
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f447abc24b41c2570800000000000000
+      internalID: 8443146165489923151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_80
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 666
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacb761948c7632f0800000000000000
+      internalID: -993469758971593556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_81
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 584
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba67780a52ead0400800000000000000
+      internalID: 292081027479205547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_82
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 660
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f9c74f1dc5647d0800000000000000
+      internalID: -2934556050365571227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_83
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 665
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca18bb7ca6d476a20800000000000000
+      internalID: 3055495993206997420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_84
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 579
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dd92c22d875d660800000000000000
+      internalID: 7409961605987425629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_85
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 551
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f3801cc808a4550800000000000000
+      internalID: 6145865983522783124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_86
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 648
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a13db95edbe97a80800000000000000
+      internalID: -8468478284072668766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_87
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 653
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530be81cf66196990800000000000000
+      internalID: -7392352644107423691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_88
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 593
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6918e5001744fb2f0800000000000000
+      internalID: -954969343851069034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_89
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 613
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d550a341d2e6f4a90800000000000000
+      internalID: -7327516928816577187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_90
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 646
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005de57a2d1a55c80800000000000000
+      internalID: -8334577609256020736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_91
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 578
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fb7e737ec0f8b10800000000000000
+      internalID: 1985820147908591472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Strip_Flowers_1_92
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 632
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09748c01494ec7fa0800000000000000
+      internalID: -5801510895372187760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite_Strip_Flowers_1_0: -735751285020145115
+      Sprite_Strip_Flowers_1_1: 6160855325526538675
+      Sprite_Strip_Flowers_1_10: 1877937730431663435
+      Sprite_Strip_Flowers_1_11: -1835602511495739730
+      Sprite_Strip_Flowers_1_12: 7661250278155460626
+      Sprite_Strip_Flowers_1_13: -6100140734960169333
+      Sprite_Strip_Flowers_1_14: 8835446578922799629
+      Sprite_Strip_Flowers_1_15: 2526428430885566416
+      Sprite_Strip_Flowers_1_16: 3254242746171223662
+      Sprite_Strip_Flowers_1_17: -2725176691819332922
+      Sprite_Strip_Flowers_1_18: 2966856244125790905
+      Sprite_Strip_Flowers_1_19: 8481918873681663235
+      Sprite_Strip_Flowers_1_2: 4679519303421821223
+      Sprite_Strip_Flowers_1_20: 4714592674443240595
+      Sprite_Strip_Flowers_1_21: 6527263815947701038
+      Sprite_Strip_Flowers_1_22: -2649052207930416552
+      Sprite_Strip_Flowers_1_23: 5546232659318857569
+      Sprite_Strip_Flowers_1_24: -3180646987684260025
+      Sprite_Strip_Flowers_1_25: 3455981380581817842
+      Sprite_Strip_Flowers_1_26: -5523979325087430634
+      Sprite_Strip_Flowers_1_27: 4171025117039019837
+      Sprite_Strip_Flowers_1_28: -3011853652132461103
+      Sprite_Strip_Flowers_1_29: 2643202576489767771
+      Sprite_Strip_Flowers_1_3: 7095544655613577313
+      Sprite_Strip_Flowers_1_30: 4395143309604136215
+      Sprite_Strip_Flowers_1_31: 5678578586394151275
+      Sprite_Strip_Flowers_1_32: -8020947093294215597
+      Sprite_Strip_Flowers_1_33: 8296570169678031760
+      Sprite_Strip_Flowers_1_34: -6847202386472524890
+      Sprite_Strip_Flowers_1_35: 1135107775717054961
+      Sprite_Strip_Flowers_1_36: -3348049803756920646
+      Sprite_Strip_Flowers_1_37: 8375304379115541648
+      Sprite_Strip_Flowers_1_38: 6968796684152397850
+      Sprite_Strip_Flowers_1_39: 837723504147840918
+      Sprite_Strip_Flowers_1_4: 8206588386391604704
+      Sprite_Strip_Flowers_1_40: -7475357750252149837
+      Sprite_Strip_Flowers_1_41: -7253341918302040284
+      Sprite_Strip_Flowers_1_42: -2922163487281429371
+      Sprite_Strip_Flowers_1_43: 4873075640133647665
+      Sprite_Strip_Flowers_1_44: 1437784969334341606
+      Sprite_Strip_Flowers_1_45: 9057367676052160251
+      Sprite_Strip_Flowers_1_46: 501523042846336463
+      Sprite_Strip_Flowers_1_47: 2047194754741868713
+      Sprite_Strip_Flowers_1_48: -7581361761094978264
+      Sprite_Strip_Flowers_1_49: -4747285084771427202
+      Sprite_Strip_Flowers_1_5: 4251895542932160166
+      Sprite_Strip_Flowers_1_50: -666366265289687130
+      Sprite_Strip_Flowers_1_51: 2181803961565093255
+      Sprite_Strip_Flowers_1_52: 6154159076601003075
+      Sprite_Strip_Flowers_1_53: -8091746826457780491
+      Sprite_Strip_Flowers_1_54: 3835426205171851970
+      Sprite_Strip_Flowers_1_55: -1479367158514717448
+      Sprite_Strip_Flowers_1_56: 1181660039693004541
+      Sprite_Strip_Flowers_1_57: -3754664414561145830
+      Sprite_Strip_Flowers_1_58: -7234410236930805365
+      Sprite_Strip_Flowers_1_59: 1884092309130080054
+      Sprite_Strip_Flowers_1_6: 8590913570740046184
+      Sprite_Strip_Flowers_1_60: -2505541278638284236
+      Sprite_Strip_Flowers_1_61: 30160759658640980
+      Sprite_Strip_Flowers_1_62: -8921542081334643702
+      Sprite_Strip_Flowers_1_63: -2283753252415068409
+      Sprite_Strip_Flowers_1_64: 4234975648167839876
+      Sprite_Strip_Flowers_1_65: 7807542993387913114
+      Sprite_Strip_Flowers_1_66: -2332279894223995611
+      Sprite_Strip_Flowers_1_67: 3834159271330200824
+      Sprite_Strip_Flowers_1_68: 3458202108824284815
+      Sprite_Strip_Flowers_1_69: -5205197880129786215
+      Sprite_Strip_Flowers_1_7: 1792170458335901404
+      Sprite_Strip_Flowers_1_70: 7571732297358364656
+      Sprite_Strip_Flowers_1_71: 4032379413572572872
+      Sprite_Strip_Flowers_1_72: 204639185971168626
+      Sprite_Strip_Flowers_1_73: 4740148806611627687
+      Sprite_Strip_Flowers_1_74: -192975049810890387
+      Sprite_Strip_Flowers_1_75: 4039585504078418274
+      Sprite_Strip_Flowers_1_76: -3572474359113794446
+      Sprite_Strip_Flowers_1_77: 6270766184448758016
+      Sprite_Strip_Flowers_1_78: 6182142289956703777
+      Sprite_Strip_Flowers_1_79: 8443146165489923151
+      Sprite_Strip_Flowers_1_8: -4830856230964519859
+      Sprite_Strip_Flowers_1_80: -993469758971593556
+      Sprite_Strip_Flowers_1_81: 292081027479205547
+      Sprite_Strip_Flowers_1_82: -2934556050365571227
+      Sprite_Strip_Flowers_1_83: 3055495993206997420
+      Sprite_Strip_Flowers_1_84: 7409961605987425629
+      Sprite_Strip_Flowers_1_85: 6145865983522783124
+      Sprite_Strip_Flowers_1_86: -8468478284072668766
+      Sprite_Strip_Flowers_1_87: -7392352644107423691
+      Sprite_Strip_Flowers_1_88: -954969343851069034
+      Sprite_Strip_Flowers_1_89: -7327516928816577187
+      Sprite_Strip_Flowers_1_9: -8905905370738840041
+      Sprite_Strip_Flowers_1_90: -8334577609256020736
+      Sprite_Strip_Flowers_1_91: 1985820147908591472
+      Sprite_Strip_Flowers_1_92: -5801510895372187760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Textures/Sprite_Strip_Flowers_1.png
+  uploadId: 977722

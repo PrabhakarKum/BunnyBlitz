@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4405dbb270a526847a23a911ac660647, type: 3}
+  m_Name: VFXInteractTable
+  m_EditorClassIdentifier: 
+  vfxInteractTables:
+  - VfxType: 0
+    vfxAsset: {fileID: 8926484042661614526, guid: 015535bb8e919ed459e3b5192a25ca97, type: 3}
+    poolInitCount: 3
+    effectDuration: 2
+  - VfxType: 1
+    vfxAsset: {fileID: 8926484042661614526, guid: fa6fb3ebbb7f94f4b8933fdaa55bcbad, type: 3}
+    poolInitCount: 3
+    effectDuration: 2
+  - VfxType: 2
+    vfxAsset: {fileID: 8926484042661614526, guid: 8d66ae3035e94f54ea5e21d8fb7dcd92, type: 3}
+    poolInitCount: 3
+    effectDuration: 2
+  - VfxType: 3
+    vfxAsset: {fileID: 8926484042661614526, guid: 985d9d93e4696dc4eb05f004ec39fc89, type: 3}
+    poolInitCount: 3
+    effectDuration: 2
+  - VfxType: 4
+    vfxAsset: {fileID: 8926484042661614526, guid: eb8eded97e2c0f949bc3977a1d5c5f99, type: 3}
+    poolInitCount: 10
+    effectDuration: 2
+  - VfxType: 5
+    vfxAsset: {fileID: 8926484042661614526, guid: e62498c390a0a624cb94749c593dd291, type: 3}
+    poolInitCount: 10
+    effectDuration: 2
+  - VfxType: 6
+    vfxAsset: {fileID: 8926484042661614526, guid: 17a1e490d501cea49b5e3583607001ac, type: 3}
+    poolInitCount: 10
+    effectDuration: 2
+  - VfxType: 7
+    vfxAsset: {fileID: 8926484042661614526, guid: ef38784844543834186da91b7e260da0, type: 3}
+    poolInitCount: 10
+    effectDuration: 2
+  - VfxType: 8
+    vfxAsset: {fileID: 8926484042661614526, guid: 54dd5b703f9bf4274b1f70be17f913c0, type: 3}
+    poolInitCount: 10
+    effectDuration: 2

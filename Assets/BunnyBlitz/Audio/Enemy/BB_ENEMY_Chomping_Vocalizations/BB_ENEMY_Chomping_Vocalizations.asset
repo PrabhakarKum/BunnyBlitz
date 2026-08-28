@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-7773259651162319196
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Chomping_Vocalization_09_{-7773259651162319196}
+  m_AudioClip: {fileID: 8300000, guid: f2bad22a714317e45945d15f9a3f5d3a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-5350427635884724804
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Chomping_Vocalization_07_{-5350427635884724804}
+  m_AudioClip: {fileID: 8300000, guid: 5289868798986e841b6dd4826f36a8eb, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4173664626262349303
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Chomping_Vocalization_03_{-4173664626262349303}
+  m_AudioClip: {fileID: 8300000, guid: f754916f1bf381e4584d37b2d935341f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3049652166022601243
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Chomping_Vocalization_02_{-3049652166022601243}
+  m_AudioClip: {fileID: 8300000, guid: 54495dc836f08c547ad6d439d5c0f47c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1855158188300509945
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Chomping_Vocalization_01_{-1855158188300509945}
+  m_AudioClip: {fileID: 8300000, guid: 6dcf602951a89754aa592ab440f96282, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &353504653518831409
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Chomping_Vocalization_08_{353504653518831409}
+  m_AudioClip: {fileID: 8300000, guid: e2b37bdc14ce95b42aa017879a4d7af7, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4214473816617156476
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Chomping_Vocalization_05_{4214473816617156476}
+  m_AudioClip: {fileID: 8300000, guid: 3a6a92e1780a2434883ac9cc48186c37, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5261968852362432329
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Chomping_Vocalization_06_{5261968852362432329}
+  m_AudioClip: {fileID: 8300000, guid: a9c10314a6b6604448b24f894cb37cbb, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Chomping_Vocalizations
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -1855158188300509945}
+  - {fileID: -3049652166022601243}
+  - {fileID: -4173664626262349303}
+  - {fileID: 8368819794757624290}
+  - {fileID: 4214473816617156476}
+  - {fileID: 5261968852362432329}
+  - {fileID: -5350427635884724804}
+  - {fileID: 353504653518831409}
+  - {fileID: -7773259651162319196}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &8368819794757624290
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_ENEMY_Chomping_Vocalization_04_{8368819794757624290}
+  m_AudioClip: {fileID: 8300000, guid: cdf6776d2905eda4080ab97894aee772, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8264631904440710205
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SFX_Foliage_Movement_From_Player_Speed_05_{-8264631904440710205}
+  m_AudioClip: {fileID: 8300000, guid: e60a8bfcd7d488f4f831319d73cb94ea, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-6668720001870633962
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SFX_Foliage_Movement_From_Player_Speed_10_{-6668720001870633962}
+  m_AudioClip: {fileID: 8300000, guid: e70119bdbafc23944aec150d5fb37def, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3191517156838960644
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SFX_Foliage_Movement_From_Player_Speed_01_{-3191517156838960644}
+  m_AudioClip: {fileID: 8300000, guid: ce36c5fd4eac2b0439a87dee1d941583, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1405566134609670944
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SFX_Foliage_Movement_From_Player_Speed_06_{1405566134609670944}
+  m_AudioClip: {fileID: 8300000, guid: d722166d63550d24a889562e74523cc2, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &3037035756788320343
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SFX_Foliage_Movement_From_Player_Speed_03_{3037035756788320343}
+  m_AudioClip: {fileID: 8300000, guid: ffad70f5d76141d408c320e614229f96, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &3906819166210673516
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SFX_Foliage_Movement_From_Player_Speed_04_{3906819166210673516}
+  m_AudioClip: {fileID: 8300000, guid: ebda9107162ec0e4da113650d2ac03c4, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SFX_Foliage_Movement_From_Player_Speed
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -3191517156838960644}
+  - {fileID: 8173776602001412320}
+  - {fileID: 3037035756788320343}
+  - {fileID: 3906819166210673516}
+  - {fileID: -8264631904440710205}
+  - {fileID: 1405566134609670944}
+  - {fileID: 7350507199744234889}
+  - {fileID: 8544161456820220238}
+  - {fileID: 9060566866876727332}
+  - {fileID: -6668720001870633962}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &7350507199744234889
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SFX_Foliage_Movement_From_Player_Speed_07_{7350507199744234889}
+  m_AudioClip: {fileID: 8300000, guid: e15b4e339ae8abc4d822a171703727bb, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &8173776602001412320
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SFX_Foliage_Movement_From_Player_Speed_02_{8173776602001412320}
+  m_AudioClip: {fileID: 8300000, guid: 1b0737e620e6c424d8a9b3af569f3b74, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &8544161456820220238
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SFX_Foliage_Movement_From_Player_Speed_08_{8544161456820220238}
+  m_AudioClip: {fileID: 8300000, guid: e89661223244c6b4cae32d7a567d2e23, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &9060566866876727332
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_SFX_Foliage_Movement_From_Player_Speed_09_{9060566866876727332}
+  m_AudioClip: {fileID: 8300000, guid: 200f19a46e7e20f498f6d11cb9ef7357, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

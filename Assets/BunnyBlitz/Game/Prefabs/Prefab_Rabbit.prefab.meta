@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 54479515ef8de4f069cd28fd9013b0fd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Prefab_Rabbit.prefab
+  uploadId: 977722

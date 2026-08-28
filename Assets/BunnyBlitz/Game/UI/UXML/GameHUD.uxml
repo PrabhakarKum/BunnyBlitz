@@ -1,0 +1,93 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/BunnyBlitz/Game/UI/USS/GameHUD.uss?fileID=7433441132597879392&amp;guid=02f8cccc07f774e2c969bd8e8a7db972&amp;type=3#GameHUD"/>
+    <ui:VisualElement name="game-ui" picking-mode="Ignore" style="flex-grow: 1;">
+        <ui:VisualElement name="core-collectible-zone" picking-mode="Ignore" style="flex-grow: 1; position: absolute; width: 242px; height: 244px; flex-wrap: wrap; flex-direction: row; margin-top: 15px; margin-right: 15px; margin-bottom: 15px; margin-left: 15px;">
+            <ui:VisualElement name="health-zone" style="flex-grow: 1; flex-direction: row; position: absolute; width: 180px; height: 130px; scale: 1.2 1.2 1.2; translate: 11px 0;">
+                <ui:VisualElement name="heart1" class="heart-visual heart-full" style="left: -17px; top: 34px; scale: 0.8 0.8 0.8;"/>
+                <ui:VisualElement name="heart2" class="heart-visual heart-full" style="left: 13px; top: 19px; scale: 0.85 0.85;"/>
+                <ui:VisualElement name="heart3" class="heart-visual heart-empty" style="top: 4px; left: 51px;"/>
+                <ui:VisualElement name="line" style="background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/LineGreen.png?fileID=5541715196883081660&amp;guid=9557f80183523451fad862a48e4f10b1&amp;type=3#LineGreen_0&quot;); width: 148px; height: 90px; -unity-background-scale-mode: scale-to-fit; position: absolute; top: 28px;"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="coin-zone" style="width: 180px; height: 130px; position: absolute; top: 106px;">
+                <ui:VisualElement name="icone" style="background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/uiCarrot.png?fileID=629773052724788819&amp;guid=4d05344af6578452b909a7e928b9f193&amp;type=3#uiCarrot_1&quot;); -unity-background-scale-mode: scale-to-fit; position: absolute; width: 73px; height: 110px; top: 8px; left: 5px;"/>
+                <ui:VisualElement name="line" style="background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/LineOrange.png?fileID=-6658224152391256740&amp;guid=f63ddadc3f905434a87f786ebe1b78dc&amp;type=3#LineOrange_0&quot;); width: 148px; height: 90px; -unity-background-scale-mode: scale-to-fit; position: absolute; top: 28px;"/>
+                <ui:Label text="22" name="counter" class="text-L" style="rotate: -20deg; top: -14px; left: 69px; position: absolute;"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="projectile-zone" style="width: 180px; height: 130px; position: absolute; top: 190px;">
+                <ui:VisualElement name="icone" style="background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/uiPomegranade.png?fileID=-1584426459446021760&amp;guid=7e9a5fa0f3bb24b25969ce9db0022174&amp;type=3#uiPomegranade_0&quot;); -unity-background-scale-mode: scale-to-fit; position: absolute; width: 76px; height: 110px; top: 16px; left: -7px;"/>
+                <ui:VisualElement name="line" style="background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/LineRed.png?fileID=1201460597218266340&amp;guid=ce4a71f76e1c04a92a134152f0c02e3a&amp;type=3#LineRed_0&quot;); width: 148px; height: 90px; -unity-background-scale-mode: scale-to-fit; position: absolute; top: 28px;"/>
+                <ui:Label text="22" name="counter" class="text-L" style="rotate: -20deg; top: -14px; left: 69px; position: absolute;"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="custom-zone" style="width: 180px; height: 130px; position: absolute; top: 279px;">
+                <ui:VisualElement name="icone" style="background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/uiDuckIcon.png?fileID=6942575600644488602&amp;guid=a697321ff227c45f1b24d6a72ab28ffb&amp;type=3#uiDuckIcon_0&quot;); -unity-background-scale-mode: scale-to-fit; position: absolute; width: 66px; height: 101px; top: 8px; left: 6px;"/>
+                <ui:VisualElement name="line" style="background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/LineBlue.png?fileID=-249490896287310676&amp;guid=ee97764f1bcac4286a842a527398db49&amp;type=3#LineBlue_0&quot;); width: 133px; height: 84px; -unity-background-scale-mode: scale-to-fit; position: absolute; top: 34px; -unity-background-image-tint-color: rgb(141, 213, 255);"/>
+                <ui:Label text="22" name="counter" class="text-L" style="rotate: -20deg; top: -14px; left: 69px; position: absolute;"/>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="life-zone" picking-mode="Ignore" style="flex-grow: 1; position: absolute; bottom: 0; left: 0; width: 300px; height: 100px; margin-top: 15px; margin-right: 15px; margin-bottom: 15px; margin-left: 15px; flex-direction: row;">
+            <ui:VisualElement name="icone" style="flex-grow: 1; width: 158px; height: 160px; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/iconUIrabbit.png?fileID=6666904125518166410&amp;guid=9a601639d74d344b6a7e4fefcef966a4&amp;type=3#iconUIrabbit_0&quot;); -unity-background-scale-mode: scale-to-fit; position: absolute; top: -59px; left: -8px;"/>
+            <ui:VisualElement name="line" style="position: absolute; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/LineBlue.png?fileID=-249490896287310676&amp;guid=ee97764f1bcac4286a842a527398db49&amp;type=3#LineBlue_0&quot;); width: 208px; height: 110px; -unity-background-scale-mode: scale-to-fit; top: -1px; left: -9px;"/>
+            <ui:Label text="x8" name="counter" class="text-L" style="position: absolute; bottom: -2px; left: 92px; rotate: -20deg; width: 88px;"/>
+        </ui:VisualElement>
+        <ui:Button name="pause-button" focusable="false" style="position: absolute; right: 11px; top: 13px; height: 64px; width: 64px; background-color: rgba(255, 255, 255, 0); border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/uiPauseSettings.png?fileID=3405880621643429457&amp;guid=4cbf043057a0548778559313dbcaf6c1&amp;type=3#uiPauseSettings_0&quot;);"/>
+        <ui:VisualElement name="pause-menu-root" picking-mode="Ignore" style="flex-grow: 1; top: 0; left: 0; right: 0; bottom: 0;">
+            <ui:VisualElement name="pause-banner-notice" style="bottom: 0; position: absolute; left: 35%; right: 35%; height: 300px; background-color: rgb(120, 0, 243); flex-direction: row; flex-shrink: 0; border-top-left-radius: 50%; border-top-right-radius: 48%; translate: 0 150px;">
+                <ui:Label text="Paused" name="pause-banner-label" class="text-L" style="translate: -15px 9px; position: absolute; top: 12px;"/>
+                <ui:Button text="" name="pause-banner-main-menu-button" style="margin-top: 20px; margin-right: 20px; margin-bottom: 20px; margin-left: 20px; font-size: 58px; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/buttonbig.png?fileID=-678284462512071275&amp;guid=59eea7a548da34539b53de29ed6df89b&amp;type=3#buttonbig_0&quot;); -unity-background-scale-mode: scale-to-fit; background-color: rgba(255, 255, 255, 0); border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; height: 199px; align-self: flex-end; position: absolute; top: -60px; left: 231px; width: 296px;">
+                    <ui:Label text="Main Menu" class="text-L text-M" style="position: absolute; height: 82px; width: 232px; top: 57px; left: 42px;"/>
+                </ui:Button>
+            </ui:VisualElement>
+            <ui:VisualElement name="pause-custom-collectable-root" style="flex-grow: 1; left: 0; position: absolute; top: 30%; bottom: 30%; width: 400px; background-color: rgb(255, 255, 255); display: none;">
+                <ui:ScrollView name="pause-custom-collectable-list" style="width: 100%; height: 100%;"/>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="UNITY-collectables-zone" picking-mode="Ignore" style="flex-grow: 1; position: absolute; left: 0; right: 0; top: 0; height: 70px; align-items: center; justify-content: center; flex-direction: row; margin-top: 10px;">
+            <ui:Image name="U-image" source="project://database/Assets/BunnyBlitz/Game/UI/Textures/ulettersUI_U.png?fileID=2800000&amp;guid=b195cdb44391f46909f6ed0d0d63c134&amp;type=3#ulettersUI_U" class="uletters-image"/>
+            <ui:Image name="N-image" source="project://database/Assets/BunnyBlitz/Game/UI/Textures/ulettersUI_N.png?fileID=2800000&amp;guid=c44263473d22b4593988905debec79e1&amp;type=3#ulettersUI_N" class="uletters-image"/>
+            <ui:Image name="I-image" source="project://database/Assets/BunnyBlitz/Game/UI/Textures/ulettersUI_I.png?fileID=2800000&amp;guid=f68719b83ffd94c95827ed9949903e80&amp;type=3#ulettersUI_I" class="uletters-image"/>
+            <ui:Image name="T-image" source="project://database/Assets/BunnyBlitz/Game/UI/Textures/ulettersUI_T.png?fileID=2800000&amp;guid=8f6d6246ec2d94ffcbc62c669776cb0d&amp;type=3#ulettersUI_T" class="uletters-image"/>
+            <ui:Image name="Y-image" source="project://database/Assets/BunnyBlitz/Game/UI/Textures/ulettersUI_Y.png?fileID=2800000&amp;guid=dddf4f7f7b434466290250f5ed48d2e7&amp;type=3#ulettersUI_Y" class="uletters-image"/>
+        </ui:VisualElement>
+        <ui:VisualElement name="boss-health-zone" style="flex-grow: 1; position: absolute; left: 0; right: 0; top: 0; height: 100px; align-items: center; justify-content: space-around; display: none;">
+            <ui:VisualElement name="boss-health-background" style="flex-grow: 0; background-color: rgb(255, 255, 255); height: 60px; width: 1000px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; align-items: stretch; align-self: center; align-content: stretch; flex-direction: row; justify-content: flex-start;"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="visual-blocker" picking-mode="Ignore" style="flex-grow: 1; position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: rgb(0, 0, 0); opacity: 0; transition-property: opacity; transition-duration: 1s;"/>
+    <ui:VisualElement name="life-counter-popup" style="flex-grow: 0; position: absolute; top: 0; left: 0; right: 0; bottom: 0; justify-content: space-around; align-items: center; flex-shrink: 0;">
+        <ui:VisualElement name="life-counter-background" style="flex-grow: 0; flex-shrink: 0; width: 300px; height: 100px; background-color: rgba(255, 254, 254, 0); flex-direction: row; background-image: none;">
+            <ui:VisualElement name="icone" style="flex-grow: 1; width: 158px; height: 160px; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/iconUIrabbit.png?fileID=6666904125518166410&amp;guid=9a601639d74d344b6a7e4fefcef966a4&amp;type=3#iconUIrabbit_0&quot;); -unity-background-scale-mode: scale-to-fit; position: absolute; top: -59px; left: -8px;"/>
+            <ui:VisualElement name="line" style="position: absolute; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/LineBlue.png?fileID=-249490896287310676&amp;guid=ee97764f1bcac4286a842a527398db49&amp;type=3#LineBlue_0&quot;); width: 208px; height: 110px; -unity-background-scale-mode: scale-to-fit; top: -1px; left: -9px;"/>
+            <ui:Label text="x8" name="life-count" class="text-L" style="position: absolute; bottom: -2px; left: 92px; rotate: -20deg; width: 88px;"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="level-end-popup" style="flex-grow: 1; position: absolute; top: 0; left: 26px; right: -25px; bottom: 0; align-items: center; justify-content: space-around; display: flex;">
+        <ui:VisualElement name="level-end-background" style="flex-grow: 0; width: 820px; height: 732px; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/windowsPopUp.png?fileID=21300000&amp;guid=d67187cece263493596ad55b031ec1de&amp;type=3#windowsPopUp&quot;); -unity-background-scale-mode: scale-to-fit; -unity-material: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Materials/GlowUI_window.mat?fileID=2100000&amp;guid=95534c45547bb493d93b59f4a2f3c031&amp;type=2#GlowUI_window&quot;);">
+            <ui:Label text="Level Completed Long" name="level-end-title" class="text-L" style="position: absolute; top: 147px; left: 71px; width: 723px; white-space: nowrap; overflow: hidden;"/>
+            <ui:VisualElement name="level-end-enemies-count-container" style="flex-grow: 0; flex-direction: column; position: absolute; height: 184px; width: 130px; top: 317px; left: 188px; align-items: center;">
+                <ui:VisualElement name="enemy-icon" style="flex-grow: 1; width: 167px; height: 161px; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/iconUIenemy.png?fileID=-6139899665271576634&amp;guid=241163bdcd13443ef82a7707d512f9d1&amp;type=3#iconUIenemy_0&quot;); -unity-background-scale-mode: scale-to-fit; position: absolute; top: -16px; left: -29px;"/>
+                <ui:Label text="99/99" name="enemy-count" class="text-M" style="position: absolute; bottom: 2px;"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="level-end-oneoffive-count-container" style="flex-grow: 0; flex-direction: column; height: 184px; width: 130px; position: absolute; top: 307px; left: 373px; align-items: center;">
+                <ui:VisualElement name="oneoffive-icon" style="flex-grow: 1; width: 137px; height: 147px; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/uiDuckIcon.png?fileID=6942575600644488602&amp;guid=a697321ff227c45f1b24d6a72ab28ffb&amp;type=3#uiDuckIcon_0&quot;); -unity-background-scale-mode: scale-to-fit; position: absolute; top: -39px; left: -12px;"/>
+                <ui:Label text="99/99" name="oneoffive-count" class="text-M" style="position: absolute; bottom: 2px;"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="level-end-best-container" style="flex-grow: 1; position: absolute; top: 240px; left: 554px; height: 184px; width: 130px;">
+                <ui:VisualElement name="char-icon" style="flex-grow: 1; width: 136px; height: 149px; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/iconUIrabbit.png?fileID=6666904125518166410&amp;guid=9a601639d74d344b6a7e4fefcef966a4&amp;type=3#iconUIrabbit_0&quot;); -unity-background-scale-mode: scale-to-fit; position: absolute; top: -27px; left: -17px;"/>
+                <ui:Label text="Best" name="Label" class="text-M" style="position: absolute; top: -26px; right: 9px;"/>
+                <ui:Label text="%" name="Label" class="text-M" style="position: absolute; top: 1px; right: 4px;"/>
+                <ui:Label text="88" name="level-end-best-completion" class="text-L" style="position: absolute; bottom: -18px; width: 115px; max-width: 115px;"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="level-completition" class="text-M" style="flex-grow: 1; position: absolute; top: 114px; left: 158px; height: 89px; width: 314px; flex-direction: row;">
+                <ui:Label text="100" name="level-end-completion" style="font-size: 40px; -unity-text-align: middle-right; color: rgb(255, 246, 0);"/>
+                <ui:Label text="% Complete" name="level-end-completion-text" style="font-size: 40px; -unity-text-align: middle-left; color: rgb(255, 246, 0); margin-left: -6px;"/>
+            </ui:VisualElement>
+            <ui:Button text="" name="level-end-button-main-menu" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; position: absolute; font-size: 32px; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/buttonbig.png?fileID=-678284462512071275&amp;guid=59eea7a548da34539b53de29ed6df89b&amp;type=3#buttonbig_0&quot;); -unity-background-scale-mode: scale-to-fit; background-color: rgba(255, 255, 255, 0); height: 192px; width: 397px; top: 485px; left: 247px; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0;">
+                <ui:Label text="OK" class="text-L" style="position: absolute; height: 82px; width: 214px; top: 51px; left: 93px;"/>
+            </ui:Button>
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="title-banner-container" picking-mode="Ignore" style="position: absolute; height: 100%; width: 100%; top: 1px; left: 0; opacity: 1;">
+        <ui:VisualElement name="title-banner" picking-mode="Ignore" style="flex-grow: 1; height: 350px; flex-shrink: 0; justify-content: space-around; align-items: center; transition-property: scale; transition-duration: 0.3s; background-image: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Textures/BackLevelAnnouncement.png?fileID=8025803699075253863&amp;guid=41cec9873a80648b6b788b51534cc543&amp;type=3#BackLevelAnnouncement_0&quot;); -unity-background-scale-mode: scale-to-fit; rotate: -23deg; scale: 0 0.1 0.1; transition-timing-function: ease-out; transition-delay: 0.1s; -unity-material: url(&quot;project://database/Assets/BunnyBlitz/Game/UI/Materials/GlowmaterialUI_levelAnnouncement.mat?fileID=2100000&amp;guid=1cec1edb8e42246ae87fd332119cd380&amp;type=2#GlowmaterialUI_levelAnnouncement&quot;);"/>
+        <ui:Label text="Level Name" name="title-text" picking-mode="Ignore" class="text-L" style="width: 50%; height: 50%; font-size: 209px; position: absolute; top: 25%; left: 25%; scale: 0.2 0.2 0.2; transition-property: scale; rotate: -23deg; transition-duration: 0.6s; transition-timing-function: ease-out-bounce; transition-delay: 0s;"/>
+    </ui:VisualElement>
+</ui:UXML>

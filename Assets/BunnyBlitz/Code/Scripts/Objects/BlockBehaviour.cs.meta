@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 482c3c41cc1fe4eedbed98c1f51c1492
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Objects/BlockBehaviour.cs
+  uploadId: 977722

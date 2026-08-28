@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 772b2f259a1a33b418c3208259ff28b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/VFX/VFX_FootStepTimeline.playable
+  uploadId: 977722

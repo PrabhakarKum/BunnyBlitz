@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-7952024092370649333
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Solid_Surface_Footsteps_05_{-7952024092370649333}
+  m_AudioClip: {fileID: 8300000, guid: f8ca503c285041f44b4c4acc1df757b0, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-5043653859111347864
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Solid_Surface_Footsteps_02_{-5043653859111347864}
+  m_AudioClip: {fileID: 8300000, guid: b6c9584fd6c7fbc458019974a4356cd1, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1392349054270063147
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Solid_Surface_Footsteps_09_{-1392349054270063147}
+  m_AudioClip: {fileID: 8300000, guid: 1ce283cb18a863d4fa9f40f71be45528, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-626709511025929419
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Solid_Surface_Footsteps_01_{-626709511025929419}
+  m_AudioClip: {fileID: 8300000, guid: 35edec0e845db1444b7602489ee5ff63, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &3231568265725501436
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Solid_Surface_Footsteps_08_{3231568265725501436}
+  m_AudioClip: {fileID: 8300000, guid: 83d37859826ca87489b0c074f4e0f0f2, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4562112442481940468
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Solid_Surface_Footsteps_07_{4562112442481940468}
+  m_AudioClip: {fileID: 8300000, guid: 100541604df5be34b929534698adf68f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4922202919479942868
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Solid_Surface_Footsteps_04_{4922202919479942868}
+  m_AudioClip: {fileID: 8300000, guid: 436dcb64cb5c6e64cbaebc397a8d2d60, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5847138636414946737
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Solid_Surface_Footsteps_03_{5847138636414946737}
+  m_AudioClip: {fileID: 8300000, guid: 7fca95bc3ff9ed549b2c589046414b15, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Solid_Surface_Footsteps
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -626709511025929419}
+  - {fileID: -5043653859111347864}
+  - {fileID: 5847138636414946737}
+  - {fileID: 4922202919479942868}
+  - {fileID: -7952024092370649333}
+  - {fileID: 6759308451727158857}
+  - {fileID: 4562112442481940468}
+  - {fileID: 3231568265725501436}
+  - {fileID: -1392349054270063147}
+  - {fileID: 8457425355163746264}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6759308451727158857
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Solid_Surface_Footsteps_06_{6759308451727158857}
+  m_AudioClip: {fileID: 8300000, guid: 681ae17cde416d548a4f4da5f2b02571, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &8457425355163746264
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Solid_Surface_Footsteps_10_{8457425355163746264}
+  m_AudioClip: {fileID: 8300000, guid: 0d1d69f3798017c4b87d116ed45acc8b, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

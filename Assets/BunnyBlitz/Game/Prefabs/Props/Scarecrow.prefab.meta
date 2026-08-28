@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e6ef5c008c2857b43b862e8b338b86de
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Props/Scarecrow.prefab
+  uploadId: 977722

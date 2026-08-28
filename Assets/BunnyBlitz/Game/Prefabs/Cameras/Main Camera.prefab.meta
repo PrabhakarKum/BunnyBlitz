@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c2194e75d1db34130bcdb049eeb805d3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Cameras/Main Camera.prefab
+  uploadId: 977722

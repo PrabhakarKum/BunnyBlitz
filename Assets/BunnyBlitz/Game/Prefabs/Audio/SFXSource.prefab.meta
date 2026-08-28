@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a8b50c4bce39b241b2529a6bb5f86eb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Audio/SFXSource.prefab
+  uploadId: 977722

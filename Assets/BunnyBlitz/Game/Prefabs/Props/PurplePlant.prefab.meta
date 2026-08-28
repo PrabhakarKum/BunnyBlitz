@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef397d0518e4f479eb1c37a112c2e9fd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Prefabs/Props/PurplePlant.prefab
+  uploadId: 977722

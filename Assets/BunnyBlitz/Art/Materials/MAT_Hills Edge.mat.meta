@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9dc0b634eedcc48f7a386d65093aeb0b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/Materials/MAT_Hills Edge.mat
+  uploadId: 977722

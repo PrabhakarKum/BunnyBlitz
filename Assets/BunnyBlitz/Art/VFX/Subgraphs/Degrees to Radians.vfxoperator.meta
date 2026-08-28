@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71db43ac1e22ec24196dc10a772683ca
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/VFX/Subgraphs/Degrees to Radians.vfxoperator
+  uploadId: 977722

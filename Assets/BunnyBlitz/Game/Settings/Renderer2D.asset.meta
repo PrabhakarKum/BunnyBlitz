@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 424799608f7334c24bf467e4bbfa7f9a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Game/Settings/Renderer2D.asset
+  uploadId: 977722

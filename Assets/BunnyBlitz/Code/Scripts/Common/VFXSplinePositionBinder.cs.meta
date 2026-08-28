@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d880ea938c039584994a82e998ee3fbb
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Code/Scripts/Common/VFXSplinePositionBinder.cs
+  uploadId: 977722

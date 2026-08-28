@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8862860012894926359
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Water_Footsteps_02_{-8862860012894926359}
+  m_AudioClip: {fileID: 8300000, guid: 74b29b173d975de4493bf02e05f0b427, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-6404479244344958034
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Water_Footsteps_06_{-6404479244344958034}
+  m_AudioClip: {fileID: 8300000, guid: bd6611e1ad8d0a7449fc25df87f780f4, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-6197991500337071691
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Water_Footsteps_04_{-6197991500337071691}
+  m_AudioClip: {fileID: 8300000, guid: a5f69c50e4867c643b20644ef7b4d55f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3836011645793064082
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Water_Footsteps_05_{-3836011645793064082}
+  m_AudioClip: {fileID: 8300000, guid: e9d0700bc9089f343b9bdf897ea5ea34, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2346598785807918178
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Water_Footsteps_01_{-2346598785807918178}
+  m_AudioClip: {fileID: 8300000, guid: 985d6b31151e9324b8ccd334df229611, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1589575155714624035
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Water_Footsteps_03_{-1589575155714624035}
+  m_AudioClip: {fileID: 8300000, guid: 1b26cfffcc6fda849ab76a9599852cb6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Water_Footsteps
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -2346598785807918178}
+  - {fileID: -8862860012894926359}
+  - {fileID: -1589575155714624035}
+  - {fileID: -6197991500337071691}
+  - {fileID: -3836011645793064082}
+  - {fileID: -6404479244344958034}
+  - {fileID: 8843287502242530861}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &8843287502242530861
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BB_PA_Water_Footsteps_07_{8843287502242530861}
+  m_AudioClip: {fileID: 8300000, guid: ddc5c6bc35d7076468e9d88a893ed60d, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba6c109629b4e8a4abda309cae08bda8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 393078
+  packageName: Bunny Blitz - 2D & 3D Sample Project
+  packageVersion: 1.0.7
+  assetPath: Assets/BunnyBlitz/Art/VFX/Materials/M_PortalMesh.mat
+  uploadId: 977722
